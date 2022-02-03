@@ -1,0 +1,794 @@
+Customer ID,Gender,Marital Status,Salary,Age,Occupation,Customer Name,Region
+FC-14335,Male,Not Married,2468.0,28.0,Senior Customer Relation,Fred Chung,West
+JP-15520,Female,Married,3198.0,54.0,BOD,Jeremy Pistek,West
+SR-20425,Female,Married,502.0,21.0,Self Employed,Sharelle Roach,West
+ST-20530,Male,Married,1365.0,46.0,Officer,Shui Tom,East
+JL-15130,Male,Not Married,431.0,16.0,Staff,Jack Lebron,South
+BM-11140,Female,Divorced,1689.0,41.0,Customer Analyst,Becky Martin,Central
+SG-20470,Male,Not Married,1600.0,42.0,Officer,Sheri Gordon,South
+CM-12445,Male,Not Married,499.0,26.0,Customer Service,Chuck Magee,West
+DM-12955,Male,Not Married,3252.0,45.0,BOD,Dario Medina,Central
+TS-21610,Female,Married,501.0,20.0,Staff,Troy Staebel,West
+BN-11515,Male,Married,1660.0,53.0,Customer Analyst,Bradley Nguyen,West
+DP-13165,Male,Married,1607.0,33.0,Customer Analyst,David Philippe,East
+CV-12295,Male,Married,1217.0,23.0,Customer Analyst,Christina VanderZanden,West
+KH-16510,Female,Not Married,1531.0,29.0,Officer,Keith Herrera,West
+SH-19975,Female,Married,1391.0,27.0,Officer,Sally Hughsby,West
+DK-13225,Male,Married,1094.0,27.0,Officer,Dean Katz,East
+SC-20305,Female,Married,2477.0,43.0,Consultant,Sean Christensen,Central
+AS-10090,Male,Not Married,4143.0,,BOD,Adam Shillingsburg,East
+RD-19720,Male,Married,2034.0,51.0,Consultant,Roger Demir,West
+BS-11800,Male,Not Married,635.0,23.0,Self Employed,Bryan Spruell,East
+CS-12175,Female,Not Married,1845.0,27.0,Officer,Charles Sheldon,West
+HH-15010,Female,Married,329.0,19.0,Customer Service,Hilary Holden,West
+DJ-13420,Male,Not Married,1078.0,29.0,Customer Analyst,Denny Joy,West
+AD-10180,Female,Divorced,862.0,31.0,Customer Service,Alan Dominguez,East
+AG-10675,Female,Not Married,2774.0,47.0,Consultant,Anna Gayman,South
+CP-12340,Male,Not Married,1450.0,26.0,Customer Analyst,Christine Phan,East
+SC-20575,Male,Not Married,1475.0,29.0,Officer,Sonia Cooley,South
+ML-18265,Male,Not Married,392.0,32.0,Customer Service,Muhammed Lee,West
+PB-19105,Female,Not Married,500.0,37.0,Customer Service,Peter Bühler,Central
+RD-19480,Female,Not Married,762.0,28.0,Customer Service,Rick Duston,West
+SZ-20035,Male,Not Married,2354.0,44.0,Consultant,Sam Zeldin,Central
+GB-14575,Female,Not Married,847.0,21.0,Customer Service,Giulietta Baptist,South
+PT-19090,Female,Not Married,1557.0,32.0,Officer,Pete Takahito,South
+JK-16120,Male,Not Married,499.0,24.0,Staff,Julie Kriz,Central
+KD-16615,Female,Married,621.0,26.0,Customer Service,Ken Dana,West
+RB-19435,Male,Not Married,1465.0,29.0,Officer,Richard Bierner,West
+KM-16225,Female,Not Married,223.0,32.0,Customer Service,Kalyca Meade,East
+AH-10120,Male,Married,2115.0,38.0,Senior Customer Relation,Adrian Hane,West
+KH-16630,Female,Not Married,500.0,23.0,Self Employed,Ken Heidel,East
+JF-15355,Male,Not Married,2797.0,39.0,Senior Customer Relation,Jay Fein,West
+SG-20080,Male,Divorced,1809.0,34.0,Officer,Sandra Glassco,West
+MG-17890,Male,Married,1234.0,54.0,Officer,Michael Granlund,West
+CR-12625,Female,Not Married,663.0,29.0,Self Employed,Corey Roper,East
+AA-10375,Male,Married,77.0,23.0,Customer Service,Allen Armold,East
+KT-16465,Male,Married,2549.0,27.0,Senior Customer Relation,Kean Takahito,West
+SB-20290,Female,Married,397.0,22.0,Staff,Sean Braxton,East
+AT-10735,Female,Not Married,1967.0,35.0,Officer,Annie Thurman,East
+MS-17830,Female,Not Married,1392.0,34.0,Customer Analyst,Melanie Seite,Central
+AG-10900,Male,Married,1716.0,48.0,Officer,Arthur Gainer,West
+SC-20770,Female,Not Married,2086.0,40.0,Senior Customer Relation,Stewart Carmichael,East
+BT-11530,Female,Married,1086.0,48.0,Officer,Bradley Talbott,West
+FM-14290,Male,Married,621.0,21.0,Customer Service,Frank Merwin,West
+NG-18430,Male,Not Married,499.0,20.0,Customer Service,Nathan Gelder,Central
+KW-16435,Male,Not Married,1600.0,29.0,Officer,Katrina Willman,East
+DD-13570,Female,Married,2960.0,46.0,Senior Customer Relation,Dorothy Dickinson,Central
+SA-20830,Male,Married,2505.0,58.0,Senior Customer Relation,Sue Ann Reed,South
+DP-13000,Female,Divorced,1901.0,41.0,Customer Analyst,Darren Powers,Central
+DK-13090,Female,Married,1451.0,27.0,Officer,Dave Kipp,South
+DV-13045,Male,Divorced,533.0,25.0,Self Employed,Darrin Van Huff,South
+TC-21145,Female,Not Married,2786.0,31.0,Consultant,Theresa Coyne,East
+JD-15895,Male,Not Married,629.0,25.0,Customer Service,Jonathan Doherty,East
+RB-19330,Female,Married,499.0,25.0,Customer Service,Randy Bradley,Central
+CS-11845,Male,Not Married,866.0,20.0,Customer Service,Cari Sayre,West
+SF-20200,Male,Married,1394.0,45.0,Customer Analyst,Sarah Foster,West
+DA-13450,Male,Married,930.0,21.0,Staff,Dianna Arnett,East
+PC-18745,Female,Not Married,1900.0,27.0,Customer Analyst,Pamela Coakley,West
+ON-18715,Male,Divorced,1024.0,39.0,Officer,Odella Nelson,East
+EN-13780,Female,Married,499.0,29.0,Customer Service,Edward Nazzal,East
+DK-12985,Female,Married,2026.0,41.0,Consultant,Darren Koutras,South
+RM-19675,Male,Married,311.0,22.0,Staff,Robert Marley,East
+SV-20785,Female,Not Married,526.0,38.0,Staff,Stewart Visinsky,East
+DK-13375,Female,Not Married,1365.0,30.0,Officer,Dennis Kane,West
+JK-15205,Female,Not Married,1942.0,31.0,Customer Analyst,Jamie Kunitz,West
+AC-10420,Female,Not Married,2112.0,46.0,Consultant,Alyssa Crouse,West
+JC-16105,Female,Married,1230.0,42.0,Officer,Julie Creighton,East
+SK-19990,Male,Married,2152.0,45.0,Consultant,Sally Knutson,East
+JM-15655,Female,Married,,,,Jim Mitchum,West
+JP-15460,Male,Not Married,1565.0,29.0,Officer,Jennifer Patt,East
+MC-18100,Male,Married,761.0,22.0,Self Employed,Mick Crebagga,Central
+JF-15415,Female,Not Married,1072.0,27.0,Officer,Jennifer Ferguson,West
+EB-13750,Male,Not Married,464.0,30.0,Staff,Edward Becker,East
+BF-11005,Male,Married,1572.0,54.0,Customer Analyst,Barry Franz,West
+AB-10255,Male,Married,2261.0,56.0,Senior Customer Relation,Alejandro Ballentine,West
+MW-18220,Female,Married,2551.0,44.0,Consultant,Mitch Webber,East
+CS-12130,Female,Married,1151.0,29.0,Customer Analyst,Chad Sievert,West
+JG-15115,Male,Married,2340.0,51.0,Senior Customer Relation,Jack Garza,South
+TA-21385,Female,Not Married,990.0,14.0,Staff,Tom Ashbrook,East
+PO-18850,Female,Not Married,,,,Patrick O'Brill,South
+JK-15625,Female,Married,,,,Jim Karlsson,West
+CC-12550,Female,Not Married,1731.0,32.0,Officer,Clay Cheatham,West
+ND-18370,Female,Not Married,2118.0,34.0,Senior Customer Relation,Natalie DeCherney,West
+KB-16585,Male,Divorced,1800.0,40.0,Customer Analyst,Ken Black,West
+DR-12880,Female,Not Married,1008.0,27.0,Officer,Dan Reichenbach,East
+RH-19555,Male,Married,2731.0,50.0,Senior Customer Relation,Ritsa Hightower,South
+BD-11500,Female,Not Married,1650.0,27.0,Customer Analyst,Bradley Drucker,Central
+JS-16030,Male,Not Married,1574.0,28.0,Officer,Joy Smith,Central
+MH-17620,Male,Not Married,1467.0,31.0,Customer Analyst,Matt Hagelstein,West
+RB-19465,Male,Not Married,1741.0,30.0,Customer Analyst,Rick Bensley,Central
+NL-18310,Female,Not Married,2179.0,33.0,Consultant,Nancy Lomonaco,West
+TG-21310,Male,Married,1430.0,46.0,Customer Analyst,Toby Gnade,West
+PL-18925,Female,Not Married,500.0,21.0,Customer Service,Paul Lucas,East
+SW-20350,Female,Married,1953.0,34.0,Customer Analyst,Sean Wendt,Central
+BS-11590,Female,Not Married,500.0,30.0,Self Employed,Brendan Sweed,East
+SR-20740,Female,Not Married,500.0,27.0,Customer Service,Steven Roelle,Central
+KF-16285,Female,Not Married,1994.0,23.0,Officer,Karen Ferguson,West
+NG-18355,Female,Married,1310.0,30.0,Customer Analyst,Nat Gilpin,East
+HK-14890,Male,Not Married,72.0,28.0,Staff,Heather Kirkland,Central
+CD-12280,Male,Not Married,475.0,24.0,Staff,Christina DeMoss,East
+SP-20650,Female,Divorced,500.0,38.0,Customer Service,Stephanie Phelps,West
+LC-17050,Female,Not Married,1036.0,31.0,Customer Analyst,Liz Carlisle,West
+NS-18640,Male,Not Married,501.0,23.0,Customer Service,Noel Staavos,East
+SC-20260,Female,Married,731.0,23.0,Self Employed,Scott Cohen,West
+VP-21760,Male,Not Married,1093.0,34.0,Officer,Victoria Pisteka,East
+AP-10915,Female,Not Married,302.0,16.0,Customer Service,Arthur Prichep,West
+DM-13345,Male,Married,869.0,22.0,Customer Service,Denise Monton,East
+PA-19060,Female,Not Married,1739.0,30.0,Officer,Pete Armstrong,Central
+RB-19705,Male,Divorced,779.0,24.0,Self Employed,Roger Barcio,East
+AB-10165,Female,Not Married,2337.0,31.0,Senior Customer Relation,Alan Barnes,West
+RE-19450,Female,Not Married,824.0,25.0,Staff,Richard Eichhorn,Central
+OT-18730,Female,Not Married,1457.0,32.0,Customer Analyst,Olvera Toch,West
+MS-17770,Male,Not Married,500.0,17.0,Staff,Maxwell Schwartz,East
+TB-21355,Female,Not Married,1185.0,33.0,Officer,Todd Boyes,East
+NH-18610,Female,Not Married,1093.0,27.0,Customer Analyst,Nicole Hansen,Central
+MF-18250,Female,Not Married,,,,Monica Federle,South
+JM-15865,Male,Not Married,1008.0,30.0,Officer,John Murray,West
+JB-16000,Female,Not Married,373.0,29.0,Staff,Joy Bell-,West
+JW-15220,Female,Married,1107.0,31.0,Customer Analyst,Jane Waco,West
+CK-12205,Male,Not Married,997.0,30.0,Staff,Chloris Kastensmidt,East
+EB-13930,Female,Not Married,710.0,22.0,Staff,Eric Barreto,South
+GP-14740,Female,Not Married,500.0,17.0,Self Employed,Guy Phonely,East
+RH-19495,Male,Not Married,1785.0,42.0,Officer,Rick Hansen,East
+LS-16975,Male,Divorced,500.0,33.0,Customer Service,Lindsay Shagiari,Central
+AS-10135,Male,Not Married,344.0,21.0,Self Employed,Adrian Shami,East
+BP-11050,Female,Married,1006.0,50.0,Officer,Barry Pond,East
+DW-13585,Male,Not Married,2212.0,,Senior Customer Relation,Dorothy Wardle,East
+BN-11470,Female,Not Married,1716.0,26.0,Officer,Brad Norvell,South
+TB-21400,Female,Not Married,1988.0,31.0,Officer,Tom Boeckenhauer,West
+BD-11605,Female,Married,912.0,20.0,Self Employed,Brian Dahlen,South
+LA-16780,Female,Married,380.0,20.0,Staff,Laura Armstrong,Central
+KS-16300,Male,Not Married,800.0,28.0,Self Employed,Karen Seio,South
+SC-20380,Female,Not Married,1096.0,25.0,Officer,Shahid Collister,South
+JW-15955,Male,Not Married,1949.0,29.0,Customer Analyst,Joni Wasserman,South
+AF-10885,Female,Not Married,2744.0,38.0,Consultant,Art Foster,East
+RR-19315,Male,Not Married,270.0,20.0,Staff,Ralph Ritter,Central
+MC-17605,Male,Married,501.0,24.0,Staff,Matt Connell,South
+MT-17815,Female,Not Married,1902.0,36.0,Customer Analyst,Meg Tillman,West
+CA-12775,Male,Not Married,1781.0,27.0,Officer,Cynthia Arntzen,East
+LW-17125,Male,Married,187.0,19.0,Staff,Liz Willingham,South
+FG-14260,Male,Married,2158.0,61.0,Consultant,Frank Gastineau,East
+Dp-13240,Male,Married,498.0,39.0,Customer Service,Dean percer,South
+SG-20890,Male,Married,1849.0,53.0,Customer Analyst,Susan Gilcrest,Central
+BD-11560,Male,Married,1111.0,46.0,Officer,Brendan Dodson,West
+JM-15265,Female,Not Married,675.0,34.0,Self Employed,Janet Molinari,Central
+SU-20665,Female,Not Married,1397.0,27.0,Customer Analyst,Stephanie Ulpright,Central
+YC-21895,Male,Not Married,2398.0,28.0,Consultant,Yoseph Carroll,East
+JO-15550,Female,Not Married,1604.0,30.0,Customer Analyst,Jesus Ocampo,East
+LC-16960,Female,Married,141.0,23.0,Customer Service,Lindsay Castell,South
+BD-11770,Female,Married,498.0,32.0,Customer Service,Bryan Davis,East
+TT-21070,Male,Divorced,1337.0,37.0,Customer Analyst,Ted Trevino,West
+DB-13405,Male,Not Married,1854.0,47.0,Customer Analyst,Denny Blanton,East
+TD-20995,Female,Not Married,1309.0,29.0,Customer Analyst,Tamara Dahlen,Central
+BE-11410,Male,Married,356.0,17.0,Staff,Bobby Elias,Central
+JF-15295,Female,Married,2081.0,37.0,Consultant,Jason Fortune-,West
+LH-17020,Male,Married,1419.0,28.0,Officer,Lisa Hazard,West
+MH-17290,Female,Married,2508.0,48.0,Senior Customer Relation,Marc Harrigan,West
+SC-20020,Male,Married,19.0,20.0,Customer Service,Sam Craven,Central
+BK-11260,Male,Married,1695.0,31.0,Officer,Berenike Kampe,West
+SN-20710,Female,Married,2782.0,59.0,Consultant,Steve Nguyen,Central
+PR-18880,Female,Not Married,633.0,23.0,Self Employed,Patrick Ryan,West
+PN-18775,Male,Married,1225.0,33.0,Customer Analyst,Parhena Norris,South
+CM-12385,Male,Not Married,502.0,25.0,Customer Service,Christopher Martinez,South
+PO-19180,Male,Married,833.0,18.0,Self Employed,Philisse Overcash,Central
+DO-13645,Male,Married,1456.0,28.0,Customer Analyst,Doug O'Connell,East
+RD-19810,Female,Not Married,748.0,21.0,Self Employed,Ross DeVincentis,South
+SC-20095,Female,Not Married,2179.0,40.0,Consultant,Sanjit Chand,West
+AC-10450,Female,Married,868.0,23.0,Staff,Amy Cox,South
+EM-14140,Male,Not Married,1292.0,52.0,Customer Analyst,Eugene Moren,West
+KM-16660,Female,Married,755.0,23.0,Self Employed,Khloe Miller,West
+NP-18685,Male,Married,2289.0,36.0,Consultant,Nora Pelletier,East
+LR-16915,Male,Married,354.0,20.0,Self Employed,Lena Radford,West
+EL-13735,Male,Married,498.0,24.0,Customer Service,Ed Ludwig,East
+RL-19615,Female,Married,365.0,24.0,Self Employed,Rob Lucas,Central
+GH-14425,Female,Not Married,1794.0,34.0,Customer Analyst,Gary Hwang,West
+TR-21325,Male,Married,1071.0,40.0,Officer,Toby Ritter,West
+JS-15685,Female,Married,1882.0,51.0,Customer Analyst,Jim Sink,South
+SP-20620,Female,Not Married,1736.0,35.0,Officer,Stefania Perrino,East
+ED-13885,Male,Not Married,500.0,20.0,Customer Service,Emily Ducich,Central
+MP-17470,Male,Married,640.0,21.0,Staff,Mark Packer,East
+SV-20815,Male,Married,501.0,22.0,Customer Service,Stuart Van,Central
+PF-19120,Female,Not Married,1996.0,30.0,Customer Analyst,Peter Fuller,East
+RP-19390,Female,Married,502.0,26.0,Staff,Resi Pölking,East
+VM-21685,Female,Married,408.0,39.0,Staff,Valerie Mitchum,West
+JL-15850,Female,Married,2833.0,35.0,Senior Customer Relation,John Lucas,West
+HE-14800,Female,Married,501.0,19.0,Staff,Harold Engle,East
+LH-16900,Male,Divorced,896.0,37.0,Customer Service,Lena Hernandez,South
+BM-11575,Female,Not Married,991.0,33.0,Self Employed,Brendan Murry,East
+PF-19225,Female,Not Married,1548.0,26.0,Officer,Phillip Flathmann,West
+EJ-14155,Female,Married,870.0,21.0,Customer Service,Eva Jacobs,East
+HJ-14875,Female,Married,148.0,35.0,Self Employed,Heather Jas,West
+VG-21790,Female,Not Married,498.0,14.0,Self Employed,Vivek Gonzalez,West
+FA-14230,Female,Married,502.0,16.0,Customer Service,Frank Atkinson,West
+KN-16450,Female,Not Married,500.0,24.0,Customer Service,Kean Nguyen,West
+PJ-18835,Male,Not Married,1659.0,24.0,Officer,Patrick Jones,South
+AZ-10750,Male,Not Married,125.0,25.0,Customer Service,Annie Zypern,West
+IM-15055,Male,Married,1504.0,34.0,Officer,Ionia McGrath,West
+AG-10765,Female,Not Married,1285.0,26.0,Officer,Anthony Garverick,Central
+RF-19345,Male,Married,1192.0,52.0,Officer,Randy Ferguson,South
+VT-21700,Female,Married,448.0,37.0,Self Employed,Valerie Takahito,East
+LC-17140,Male,Not Married,1445.0,27.0,Officer,Logan Currie,East
+BP-11155,Female,Not Married,1456.0,29.0,Officer,Becky Pak,East
+HF-14995,Female,Married,627.0,21.0,Staff,Herbert Flentye,West
+NC-18340,Female,Married,501.0,21.0,Self Employed,Nat Carroll,Central
+SS-20875,Male,Married,2147.0,37.0,Senior Customer Relation,Sung Shariari,East
+EM-14065,Male,Not Married,446.0,19.0,Customer Service,Erin Mull,East
+SF-20965,Male,Married,1642.0,52.0,Officer,Sylvia Foulston,Central
+KL-16645,Male,Married,273.0,21.0,Staff,Ken Lonsdale,Central
+TP-21565,Male,Married,438.0,22.0,Customer Service,Tracy Poddar,West
+JR-16210,Female,Married,892.0,24.0,Staff,Justin Ritter,West
+IM-15070,Male,Divorced,1592.0,44.0,Officer,Irene Maddox,West
+RA-19285,Male,Not Married,1719.0,28.0,Officer,Ralph Arnett,West
+HG-14845,Male,Not Married,1806.0,28.0,Officer,Harry Greene,East
+TC-20980,Female,Not Married,783.0,15.0,Customer Service,Tamara Chand,Central
+HG-15025,Female,Married,2943.0,66.0,Consultant,Hunter Glantz,Central
+AC-10615,Male,Married,1128.0,23.0,Officer,Ann Chong,East
+DP-13390,Female,Married,994.0,24.0,Staff,Dennis Pardue,West
+AH-10210,Female,Married,2994.0,60.0,Senior Customer Relation,Alan Hwang,West
+HR-14770,Female,Not Married,2030.0,33.0,Consultant,Hallie Redmond,Central
+AB-10060,Female,Not Married,2263.0,50.0,Consultant,Adam Bellavance,East
+YS-21880,Female,Married,888.0,20.0,Customer Service,Yana Sorensen,West
+AB-10105,Male,Married,862.0,20.0,Self Employed,Adrian Barton,Central
+AR-10510,Male,Married,502.0,31.0,Customer Service,Andrew Roberts,East
+TB-21175,Male,Not Married,1051.0,27.0,Customer Analyst,Thomas Boland,South
+RF-19840,Female,Married,573.0,28.0,Self Employed,Roy Französisch,South
+BH-11710,Male,Married,1264.0,48.0,Customer Analyst,Brosina Hoffman,South
+KD-16270,Female,Married,1557.0,52.0,Officer,Karen Daniels,Central
+DP-13105,Female,Married,501.0,21.0,Self Employed,Dave Poirier,West
+BS-11665,Male,Married,1422.0,52.0,Officer,Brian Stugart,West
+DO-13435,Male,Not Married,843.0,25.0,Customer Service,Denny Ordway,West
+EH-13765,Male,Married,1075.0,49.0,Officer,Edward Hooks,East
+FC-14245,Male,Not Married,789.0,22.0,Self Employed,Frank Carlisle,West
+RD-19585,Male,Married,2125.0,29.0,Consultant,Rob Dowd,South
+MY-18295,Male,Married,890.0,19.0,Staff,Muhammed Yedwab,Central
+MM-18280,Male,Married,357.0,20.0,Customer Service,Muhammed MacIntyre,Central
+PM-18940,Male,Not Married,473.0,18.0,Self Employed,Paul MacIntyre,Central
+SS-20515,Female,Not Married,1506.0,29.0,Officer,Shirley Schmidt,South
+CJ-12010,Female,Not Married,413.0,33.0,Customer Service,Caroline Jumper,East
+BO-11350,Male,Married,207.0,37.0,Staff,Bill Overfelt,East
+TS-21430,Male,Not Married,3345.0,45.0,Manager Director,Tom Stivers,West
+TB-21250,Male,Not Married,1705.0,29.0,Customer Analyst,Tim Brockman,West
+CR-12580,Male,Married,1373.0,46.0,Customer Analyst,Clay Rozendal,West
+GM-14680,Male,Married,1636.0,44.0,Customer Analyst,Greg Matthias,West
+AH-10030,Male,Married,1096.0,49.0,Customer Analyst,Aaron Hawkins,East
+JR-15670,Female,Married,1155.0,51.0,Officer,Jim Radford,West
+DB-13615,Female,Married,2403.0,54.0,Consultant,Doug Bickford,West
+TC-21535,Female,Not Married,2185.0,36.0,Consultant,Tracy Collins,West
+SC-20050,Female,Not Married,1241.0,32.0,Officer,Sample Company A,West
+LC-16870,Male,Married,1387.0,47.0,Customer Analyst,Lena Cacioppo,West
+AA-10315,Male,Not Married,499.0,27.0,Customer Service,Alex Avila,Central
+PJ-19015,Female,Married,2630.0,39.0,Consultant,Pauline Johnson,East
+PK-19075,Female,Divorced,2090.0,34.0,Senior Customer Relation,Pete Kriz,East
+RH-19600,Male,Married,1282.0,41.0,Officer,Rob Haberlin,South
+JM-15535,Male,Not Married,941.0,24.0,Self Employed,Jessica Myrick,East
+FP-14320,Male,Not Married,501.0,24.0,Customer Service,Frank Preis,East
+BM-11785,Male,Married,1267.0,31.0,Officer,Bryan Mills,East
+NW-18400,Male,Not Married,1258.0,32.0,Customer Analyst,Natalie Webber,East
+MZ-17335,Female,Not Married,1247.0,27.0,Customer Analyst,Maria Zettner,West
+DW-13480,Male,Married,111.0,24.0,Customer Service,Dianna Wilson,Central
+JE-15715,Female,Married,502.0,23.0,Self Employed,Joe Elijah,West
+MC-17845,Male,Married,717.0,23.0,Staff,Michael Chen,West
+MG-18145,Female,Married,672.0,22.0,Self Employed,Mike Gockenbach,East
+JC-15775,Male,Not Married,1737.0,28.0,Customer Analyst,John Castell,East
+DL-13330,Female,Not Married,491.0,16.0,Customer Service,Denise Leinenbach,Central
+TM-21490,Female,Married,1000.0,,,Tony Molinari,East
+VW-21775,Male,Not Married,1226.0,28.0,Customer Analyst,Victoria Wilson,East
+CM-12115,Female,Not Married,1762.0,24.0,Customer Analyst,Chad McGuire,East
+JG-15160,Male,Not Married,501.0,26.0,Staff,James Galang,West
+PS-18760,Male,Married,1099.0,49.0,Officer,Pamela Stobb,East
+NP-18700,Male,Married,1027.0,27.0,Officer,Nora Preis,West
+JE-15475,Male,Not Married,1084.0,29.0,Customer Analyst,Jeremy Ellison,Central
+CA-11965,Female,Not Married,500.0,33.0,Self Employed,Carol Adams,Central
+KH-16330,Male,Not Married,1923.0,29.0,Customer Analyst,Katharine Harms,East
+AB-10600,Female,Not Married,1824.0,32.0,Customer Analyst,Ann Blume,West
+ND-18460,Female,Not Married,1324.0,27.0,Customer Analyst,Neil Ducich,South
+JS-15880,Male,Not Married,724.0,20.0,Staff,John Stevenson,Central
+AG-10270,Male,Divorced,2728.0,43.0,Consultant,Alejandro Grove,Central
+BF-10975,Male,Married,933.0,21.0,Staff,Barbara Fisher,South
+JC-15340,Male,Married,,,,Jasper Cacioppo,West
+AS-10045,Male,Not Married,503.0,32.0,Staff,Aaron Smayling,South
+MC-17275,Female,Married,,,,Marc Crier,West
+RR-19525,Male,Not Married,781.0,32.0,Self Employed,Rick Reed,East
+SO-20335,Female,Married,499.0,23.0,Self Employed,Sean O'Donnell,South
+SF-20065,Female,Divorced,700.0,36.0,Customer Service,Sandra Flanagan,East
+SP-20920,Male,Not Married,1091.0,36.0,Officer,Susan Pistek,East
+AG-10390,Male,Married,2741.0,37.0,Senior Customer Relation,Allen Goldenen,East
+CA-12265,Male,Married,1857.0,28.0,Officer,Christina Anderson,West
+CP-12085,Male,Not Married,2962.0,50.0,Senior Customer Relation,Cathy Prescott,Central
+SC-20230,Male,Not Married,2442.0,52.0,Consultant,Scot Coram,West
+DB-13270,Female,Married,197.0,26.0,Staff,Deborah Brumfield,West
+PS-19045,Female,Married,2343.0,43.0,Senior Customer Relation,Penelope Sewall,South
+SM-20005,Male,Not Married,737.0,22.0,Staff,Sally Matthias,East
+JB-15925,Male,Divorced,500.0,25.0,Customer Service,Joni Blumstein,East
+AR-10570,Female,Not Married,2769.0,44.0,Consultant,Anemone Ratner,South
+GK-14620,Female,Married,1858.0,31.0,Customer Analyst,Grace Kelly,West
+DB-13120,Female,Divorced,1705.0,38.0,Customer Analyst,David Bremer,West
+RO-19780,Male,Not Married,1509.0,29.0,Officer,Rose O'Brian,Central
+SC-20725,Male,Not Married,1320.0,35.0,Customer Analyst,Steven Cartwright,West
+NM-18520,Female,Married,500.0,24.0,Customer Service,Neoma Murray,West
+RB-19570,Male,Not Married,694.0,30.0,Customer Service,Rob Beeghly,Central
+SG-20605,Female,Married,777.0,22.0,Customer Service,Speros Goranitis,East
+DL-12925,Female,Not Married,501.0,23.0,Staff,Daniel Lacy,Central
+CY-12745,Male,Not Married,500.0,17.0,Staff,Craig Yedwab,West
+SM-20320,Male,Married,2057.0,32.0,Consultant,Sean Miller,South
+CS-12505,Female,Married,1880.0,46.0,Customer Analyst,Cindy Stewart,West
+GD-14590,Female,Married,328.0,24.0,Self Employed,Giulietta Dortch,East
+SC-20845,Male,Not Married,501.0,17.0,Staff,Sung Chung,West
+BM-11650,Female,Not Married,668.0,15.0,Staff,Brian Moss,Central
+EH-14125,Male,Married,499.0,23.0,Self Employed,Eugene Hildebrand,East
+RW-19630,Female,Married,832.0,20.0,Self Employed,Rob Williams,Central
+BF-11170,Female,Not Married,705.0,17.0,Staff,Ben Ferrer,West
+KL-16555,Male,Not Married,1441.0,29.0,Officer,Kelly Lampkin,South
+SC-20440,Male,Married,2528.0,50.0,Senior Customer Relation,Shaun Chance,East
+FH-14350,Female,Not Married,498.0,26.0,Customer Service,Fred Harton,South
+LW-16990,Female,Married,1222.0,43.0,Customer Analyst,Lindsay Williams,West
+FM-14380,Male,Married,548.0,22.0,Staff,Fred McMath,South
+AH-10465,Female,Married,1451.0,45.0,Officer,Amy Hunt,Central
+GM-14695,Female,Married,499.0,25.0,Staff,Greg Maxwell,West
+PV-18985,Female,Not Married,1782.0,25.0,Customer Analyst,Paul Van Hugh,West
+GH-14410,Male,Not Married,1872.0,32.0,Officer,Gary Hansen,West
+KC-16255,Male,Married,685.0,24.0,Self Employed,Karen Carlisle,South
+JF-15490,Female,Not Married,502.0,25.0,Customer Service,Jeremy Farry,West
+VS-21820,Female,Not Married,555.0,16.0,Customer Service,Vivek Sundaresam,Central
+MC-17635,Male,Married,501.0,22.0,Customer Service,Matthew Clasen,Central
+AP-10720,Male,Married,1399.0,32.0,Customer Analyst,Anne Pryor,East
+GT-14710,Male,Married,,,,Greg Tran,East
+PG-18895,Male,Married,500.0,21.0,Customer Service,Paul Gonzalez,West
+DM-13525,Female,Not Married,429.0,25.0,Self Employed,Don Miller,East
+MS-17530,Female,Married,881.0,22.0,Self Employed,MaryBeth Skach,West
+MS-17365,Male,Not Married,2522.0,,Senior Customer Relation,Maribeth Schnelling,West
+JA-15970,Female,Married,501.0,37.0,Self Employed,Joseph Airdo,West
+LT-17110,Male,Married,1753.0,26.0,Officer,Liz Thompson,West
+TS-21655,Male,Not Married,312.0,27.0,Staff,Trudy Schmidt,Central
+CM-12655,Male,Not Married,114.0,24.0,Staff,Corinna Mitchell,West
+JL-15835,Female,Married,634.0,31.0,Customer Service,John Lee,West
+JL-15175,Male,Not Married,489.0,30.0,Staff,James Lanier,West
+DN-13690,Male,Not Married,1268.0,25.0,Customer Analyst,Duane Noonan,West
+SW-20755,Female,Married,1040.0,32.0,Customer Analyst,Steven Ward,East
+BD-11620,Male,Not Married,1235.0,26.0,Officer,Brian DeCherney,East
+DH-13075,Female,Married,1172.0,26.0,Officer,Dave Hallsten,West
+BF-11275,Female,Married,335.0,22.0,Customer Service,Beth Fritzler,West
+CC-12145,Female,Married,342.0,21.0,Staff,Charles Crestani,West
+Dl-13600,Female,Divorced,982.0,22.0,Self Employed,Dorris liebe,West
+MH-17440,Female,Married,66.0,24.0,Customer Service,Mark Haberlin,South
+SS-20410,Male,Not Married,646.0,24.0,Staff,Shahid Shariari,Central
+CM-12235,Female,Married,1419.0,28.0,Customer Analyst,Chris McAfee,South
+ES-14080,Male,Not Married,1346.0,28.0,Customer Analyst,Erin Smith,West
+TB-21280,Male,Married,746.0,37.0,Self Employed,Toby Braunhardt,East
+MV-17485,Male,Not Married,3171.0,,Manager Director,Mark Van Huff,West
+SC-20695,Male,Married,426.0,22.0,Staff,Steve Chapman,Central
+CJ-11875,Male,Not Married,1598.0,32.0,Customer Analyst,Carl Jackson,East
+SS-20140,Female,Not Married,500.0,35.0,Customer Service,Saphhira Shifley,South
+EM-14200,Female,Not Married,162.0,22.0,Customer Service,Evan Minnotte,South
+FM-14215,Male,Married,1238.0,28.0,Officer,Filia McAdams,South
+RS-19765,Male,Not Married,318.0,15.0,Staff,Roland Schwarz,South
+KT-16480,Male,Not Married,128.0,22.0,Self Employed,Kean Thornton,East
+RB-19645,Male,Not Married,316.0,18.0,Customer Service,Robert Barroso,South
+RA-19915,Male,Not Married,2026.0,31.0,Senior Customer Relation,Russell Applegate,Central
+RE-19405,Female,Married,178.0,20.0,Staff,Ricardo Emerson,East
+BF-11215,Male,Not Married,517.0,22.0,Staff,Benjamin Farhat,West
+ZC-21910,Male,Married,3140.0,62.0,BOD,Zuschuss Carroll,West
+TB-21595,Male,Married,942.0,38.0,Self Employed,Troy Blackwell,Central
+MF-17665,Male,Not Married,235.0,34.0,Customer Service,Maureen Fritzler,East
+NM-18445,Female,Not Married,1734.0,27.0,Customer Analyst,Nathan Mautz,East
+FW-14395,Female,Not Married,2427.0,,Senior Customer Relation,Fred Wasserman,South
+CC-12430,Male,Married,166.0,22.0,Customer Service,Chuck Clark,East
+AW-10840,Male,Married,500.0,23.0,Staff,Anthony Witt,West
+MO-17800,Female,Married,500.0,23.0,Customer Service,Meg O'Connel,Central
+RA-19945,Female,Married,939.0,24.0,Staff,Ryan Akin,South
+JD-15790,Female,Married,501.0,35.0,Self Employed,John Dryer,Central
+LF-17185,Female,Married,522.0,20.0,Staff,Luke Foster,Central
+KH-16690,Female,Divorced,842.0,32.0,Self Employed,Kristen Hastings,West
+JD-16015,Female,Not Married,1001.0,25.0,Customer Analyst,Joy Daniels,Central
+MN-17935,Male,Married,1242.0,44.0,Customer Analyst,Michael Nguyen,Central
+JR-15700,Female,Not Married,930.0,34.0,Self Employed,Jocasta Rupert,South
+BG-11035,Male,Not Married,2248.0,31.0,Consultant,Barry Gonzalez,South
+ME-17320,Male,Not Married,,,,Maria Etezadi,South
+RC-19825,Female,Married,2877.0,37.0,Consultant,Roy Collins,West
+CC-12610,Female,Married,316.0,25.0,Customer Service,Corey Catlett,South
+SD-20485,Female,Married,499.0,23.0,Customer Service,Shirley Daniels,Central
+GA-14515,Female,Not Married,1015.0,38.0,Customer Analyst,George Ashbrook,West
+CG-12040,Female,Married,2347.0,56.0,Senior Customer Relation,Catherine Glotzbach,East
+CM-12160,Female,Married,500.0,24.0,Self Employed,Charles McCrossin,East
+VB-21745,Male,Married,,,,Victoria Brennan,Central
+NK-18490,Male,Not Married,464.0,23.0,Customer Service,Neil Knudson,West
+DC-13285,Female,Married,500.0,23.0,Staff,Debra Catini,South
+MB-17305,Female,Divorced,702.0,32.0,Self Employed,Maria Bertelson,East
+ML-17395,Female,Married,1884.0,28.0,Customer Analyst,Marina Lichtenstein,West
+CK-12595,Male,Married,14.0,39.0,Staff,Clytie Kelty,East
+PS-18970,Male,Married,490.0,37.0,Customer Service,Paul Stevenson,West
+CM-12190,Male,Not Married,499.0,22.0,Staff,Charlotte Melton,Central
+EB-13975,Female,Married,2514.0,49.0,Consultant,Erica Bern,West
+CC-12475,Female,Married,1713.0,41.0,Customer Analyst,Cindy Chapman,East
+EH-13945,Male,Not Married,1677.0,32.0,Officer,Eric Hoffmann,Central
+TW-21025,Male,Divorced,922.0,30.0,Staff,Tamara Willingham,West
+DE-13255,Male,Married,2143.0,50.0,Senior Customer Relation,Deanra Eno,East
+ML-17410,Male,Not Married,502.0,25.0,Self Employed,Maris LaWare,West
+RH-19510,Female,Married,718.0,38.0,Staff,Rick Huthwaite,West
+HD-14785,Female,Married,2449.0,54.0,Senior Customer Relation,Harold Dahlen,East
+BP-11095,Male,Not Married,172.0,26.0,Staff,Bart Pistole,West
+DW-13195,Male,Married,1449.0,38.0,Officer,David Wiener,West
+SP-20545,Male,Not Married,1227.0,46.0,Customer Analyst,Sibella Parks,East
+JJ-15445,Male,Married,,,,Jennifer Jackson,East
+PC-19000,Male,Married,1290.0,26.0,Officer,Pauline Chand,West
+RP-19270,Male,Married,3291.0,49.0,BOD,Rachel Payne,West
+SM-20950,Female,Not Married,500.0,26.0,Self Employed,Suzanne McNair,East
+SP-20860,Male,Not Married,,,,Sung Pak,East
+DB-12970,Male,Married,2110.0,62.0,Consultant,Darren Budd,West
+CG-12520,Female,Divorced,2468.0,43.0,Senior Customer Relation,Claire Gute,Central
+MG-17695,Female,Married,2369.0,42.0,Consultant,Maureen Gnade,East
+FO-14305,Male,Married,498.0,22.0,Customer Service,Frank Olsen,West
+JH-15985,Female,Not Married,964.0,29.0,Self Employed,Joseph Holt,West
+AJ-10795,Male,Not Married,501.0,39.0,Customer Service,Anthony Johnson,West
+BB-10990,Female,Not Married,875.0,20.0,Staff,Barry Blumstein,West
+GT-14755,Female,Not Married,2698.0,31.0,Senior Customer Relation,Guy Thornton,West
+CA-12055,Female,Not Married,1128.0,28.0,Customer Analyst,Cathy Armstrong,Central
+GM-14455,Male,Not Married,2202.0,45.0,Senior Customer Relation,Gary Mitchum,East
+BP-11290,Female,Not Married,28.0,22.0,Self Employed,Beth Paige,Central
+RB-19795,Female,Not Married,772.0,24.0,Staff,Ross Baird,South
+LP-17080,Male,Not Married,500.0,21.0,Self Employed,Liz Pelletier,West
+LL-16840,Female,Married,598.0,20.0,Customer Service,Lauren Leatherbury,South
+DF-13135,Female,Not Married,500.0,21.0,Self Employed,David Flashing,Central
+DK-12895,Female,Married,1310.0,26.0,Customer Analyst,Dana Kaydos,Central
+AW-10930,Male,Married,2718.0,65.0,Senior Customer Relation,Arthur Wiediger,Central
+JD-16060,Male,Married,1175.0,34.0,Officer,Julia Dunbar,Central
+KD-16495,Male,Married,498.0,35.0,Self Employed,Keith Dawkins,West
+GW-14605,Male,Not Married,566.0,20.0,Self Employed,Giulietta Weimer,South
+TB-21520,Female,Not Married,2631.0,,Senior Customer Relation,Tracy Blumstein,East
+SS-20590,Female,Not Married,2011.0,26.0,Senior Customer Relation,Sonia Sunley,West
+CS-12250,Male,Not Married,655.0,,Customer Service,Chris Selesnick,West
+JW-16075,Male,Married,1362.0,32.0,Officer,Julia West,South
+AR-10345,Male,Married,327.0,38.0,Self Employed,Alex Russell,East
+CL-12700,Male,Not Married,1787.0,33.0,Customer Analyst,Craig Leslie,West
+HR-14830,Male,Not Married,1570.0,32.0,Customer Analyst,Harold Ryan,East
+BT-11440,Female,Married,2542.0,48.0,Senior Customer Relation,Bobby Trafton,East
+KN-16390,Female,Not Married,667.0,20.0,Customer Service,Katherine Nockton,East
+GZ-14470,Female,Married,227.0,17.0,Customer Service,Gary Zandusky,West
+TB-21625,Male,Not Married,932.0,20.0,Self Employed,Trudy Brown,East
+TH-21550,Male,Not Married,1361.0,26.0,Officer,Tracy Hopkins,East
+EH-14005,Male,Married,1130.0,47.0,Customer Analyst,Erica Hernandez,South
+MV-18190,Male,Not Married,500.0,33.0,Customer Service,Mike Vittorini,West
+LW-17215,Male,Married,707.0,39.0,Staff,Luke Weiss,East
+MA-17560,Female,Married,954.0,19.0,Customer Service,Matt Abelman,Central
+MH-17785,Male,Married,1261.0,52.0,Officer,Maya Herman,East
+AC-10660,Male,Not Married,1360.0,28.0,Officer,Anna Chung,Central
+AB-10015,Female,Married,839.0,21.0,Staff,Aaron Bergman,West
+MK-18160,Male,Not Married,2203.0,39.0,Senior Customer Relation,Mike Kennedy,South
+BG-11695,Male,Married,1653.0,26.0,Customer Analyst,Brooke Gillingham,East
+BW-11200,Male,Not Married,1218.0,36.0,Officer,Ben Wallace,East
+SJ-20500,Male,Married,1953.0,48.0,Officer,Shirley Jackson,West
+CR-12730,Male,Married,1897.0,30.0,Customer Analyst,Craig Reiter,East
+BP-11230,Female,Not Married,499.0,27.0,Customer Service,Benjamin Patterson,West
+HZ-14950,Female,Married,668.0,21.0,Customer Service,Henia Zydlo,East
+AM-10705,Female,Married,1036.0,46.0,Customer Analyst,Anne McFarland,South
+HW-14935,Male,Not Married,2558.0,48.0,Senior Customer Relation,Helen Wasserman,Central
+EM-13825,Male,Not Married,499.0,15.0,Self Employed,Elizabeth Moffitt,Central
+GH-14665,Male,Not Married,527.0,22.0,Self Employed,Greg Hansen,Central
+CK-12760,Male,Not Married,2490.0,34.0,Consultant,Cyma Kinney,East
+AG-10525,Male,Not Married,2739.0,27.0,Consultant,Andy Gerbode,East
+ER-13855,Male,Not Married,8.0,20.0,Staff,Elpida Rittenbach,South
+JH-15910,Male,Not Married,1536.0,30.0,Officer,Jonathan Howell,Central
+KD-16345,Female,Not Married,1393.0,34.0,Customer Analyst,Katherine Ducich,East
+CR-12820,Female,Not Married,499.0,26.0,Staff,Cyra Reiten,East
+CT-11995,Male,Not Married,22.0,23.0,Staff,Carol Triggs,Central
+FH-14275,Female,Married,1683.0,29.0,Officer,Frank Hawley,Central
+JM-15250,Female,Married,3071.0,45.0,Manager Director,Janet Martin,Central
+AA-10480,Female,Divorced,1711.0,30.0,Customer Analyst,Andrew Allen,Central
+JB-15400,Female,Divorced,1274.0,41.0,Customer Analyst,Jennifer Braxton,Central
+DL-13315,Female,Married,78.0,23.0,Staff,Delfina Latchford,East
+MD-17350,Male,Not Married,1456.0,27.0,Officer,Maribeth Dona,East
+CL-11890,Male,Not Married,1527.0,26.0,Customer Analyst,Carl Ludwig,East
+SW-20455,Female,Married,500.0,21.0,Staff,Shaun Weien,West
+BW-11065,Female,Not Married,1354.0,26.0,Customer Analyst,Barry Weirich,East
+BS-11365,Male,Not Married,2823.0,34.0,Senior Customer Relation,Bill Shonely,East
+TB-21190,Female,Not Married,4028.0,62.0,BOD,Thomas Brumley,West
+NF-18475,Female,Not Married,2486.0,32.0,Senior Customer Relation,Neil Französisch,Central
+CD-11920,Female,Not Married,1219.0,29.0,Officer,Carlos Daly,East
+DJ-13630,Male,Not Married,2107.0,27.0,Senior Customer Relation,Doug Jacobs,East
+SW-20245,Female,Married,1568.0,52.0,Customer Analyst,Scot Wooten,East
+TP-21130,Male,Married,1946.0,40.0,Customer Analyst,Theone Pippenger,Central
+LH-16750,Male,Married,1983.0,39.0,Customer Analyst,Larry Hughes,South
+GH-14485,Female,Married,1233.0,26.0,Officer,Gene Hale,Central
+JC-15385,Male,Not Married,780.0,37.0,Staff,Jenna Caffey,West
+AS-10630,Male,Not Married,1101.0,25.0,Officer,Ann Steele,South
+AH-10690,Female,Not Married,1745.0,44.0,Officer,Anna Häberlin,South
+KB-16600,Female,Divorced,1912.0,41.0,Customer Analyst,Ken Brennan,Central
+SJ-20215,Female,Not Married,315.0,23.0,Self Employed,Sarah Jordon,Central
+NC-18415,Female,Married,527.0,19.0,Customer Service,Nathan Cano,South
+NR-18550,Female,Not Married,1837.0,27.0,Officer,Nick Radford,South
+MP-18175,Female,Married,500.0,21.0,Self Employed,Mike Pelletier,West
+EB-13870,Male,Not Married,596.0,28.0,Staff,Emily Burns,West
+NP-18670,Male,Married,543.0,20.0,Staff,Nora Paige,Central
+NB-18580,Male,Not Married,499.0,23.0,Self Employed,Nicole Brennan,East
+KB-16405,Male,Married,499.0,23.0,Staff,Katrina Bavinger,West
+BP-11185,Female,Not Married,1415.0,29.0,Customer Analyst,Ben Peterman,West
+AR-10405,Male,Married,711.0,22.0,Customer Service,Allen Rosenblatt,East
+BS-11755,Female,Married,908.0,23.0,Staff,Bruce Stewart,West
+AJ-10945,Male,Not Married,2327.0,27.0,Senior Customer Relation,Ashley Jarboe,Central
+MR-17545,Female,Not Married,347.0,18.0,Self Employed,Mathew Reese,East
+VG-21805,Female,Not Married,734.0,18.0,Self Employed,Vivek Grady,East
+AS-10285,Male,Not Married,1239.0,28.0,Customer Analyst,Alejandro Savely,Central
+XP-21865,Female,Not Married,629.0,28.0,Staff,Xylona Preis,West
+CC-12100,Female,Married,2667.0,41.0,Consultant,Chad Cunningham,West
+JK-15730,Male,Not Married,502.0,18.0,Self Employed,Joe Kamberova,Central
+MH-18025,Male,Not Married,521.0,19.0,Self Employed,Michelle Huthwaite,West
+AJ-10960,Female,Not Married,2373.0,45.0,Senior Customer Relation,Astrea Jones,East
+SB-20170,Male,Not Married,1537.0,25.0,Officer,Sarah Bern,East
+CM-11935,Male,Not Married,2083.0,38.0,Consultant,Carlos Meador,South
+BO-11425,Male,Married,1998.0,45.0,Customer Analyst,Bobby Odegard,South
+MG-17680,Female,Divorced,133.0,17.0,Customer Service,Maureen Gastineau,East
+MT-18070,Male,Married,,,,Michelle Tran,Central
+EB-14170,Male,Married,500.0,20.0,Self Employed,Evan Bailliet,Central
+TH-21235,Female,Married,72.0,21.0,Customer Service,Tiffany House,Central
+AG-10300,Female,Married,2724.0,37.0,Senior Customer Relation,Aleksandra Gannaway,West
+DS-13180,Female,Not Married,2410.0,43.0,Consultant,David Smith,Central
+MC-18130,Male,Not Married,300.0,32.0,Customer Service,Mike Caudle,West
+LM-17065,Female,Married,500.0,21.0,Self Employed,Liz MacKendrick,South
+BT-11485,Female,Married,926.0,17.0,Customer Service,Brad Thomas,East
+BB-11545,Female,Not Married,2480.0,48.0,Consultant,Brenda Bowman,Central
+SH-20395,Female,Married,1995.0,24.0,Customer Analyst,Shahid Hopkins,East
+EM-13810,Female,Not Married,1377.0,28.0,Officer,Eleni McCrary,East
+DK-13150,Female,Divorced,167.0,33.0,Staff,David Kendrick,East
+BE-11455,Male,Not Married,2588.0,29.0,Senior Customer Relation,Brad Eason,East
+PB-18805,Male,Not Married,711.0,30.0,Customer Service,Patrick Bzostek,West
+TS-21085,Male,Not Married,198.0,35.0,Staff,Thais Sissman,West
+LR-17035,Female,Married,308.0,23.0,Staff,Lisa Ryan,West
+RM-19375,Male,Not Married,982.0,39.0,Staff,Raymond Messe,East
+NC-18625,Female,Married,502.0,18.0,Staff,Noah Childs,Central
+TS-21160,Male,Married,498.0,23.0,Customer Service,Theresa Swint,East
+BD-11320,Female,Married,839.0,39.0,Self Employed,Bill Donatelli,West
+MO-17950,Male,Not Married,691.0,29.0,Customer Service,Michael Oakman,Central
+AB-10150,Male,Not Married,222.0,25.0,Customer Service,Aimee Bixby,East
+CL-12565,Female,Not Married,500.0,15.0,Customer Service,Clay Ludtke,West
+NS-18505,Male,Not Married,500.0,27.0,Self Employed,Neola Schneider,Central
+JE-15745,Female,Not Married,1293.0,33.0,Customer Analyst,Joel Eaton,South
+TH-21100,Male,Not Married,367.0,20.0,Customer Service,Thea Hendricks,West
+MH-17455,Male,Not Married,643.0,14.0,Staff,Mark Hamilton,East
+SW-20275,Male,Not Married,292.0,27.0,Self Employed,Scott Williamson,East
+LH-17155,Female,Not Married,499.0,26.0,Self Employed,Logan Haushalter,West
+MP-17965,Male,Not Married,500.0,22.0,Staff,Michael Paige,Central
+BV-11245,Male,Not Married,1440.0,27.0,Officer,Benjamin Venier,Central
+RD-19930,Male,Not Married,287.0,29.0,Customer Service,Russell D'Ascenzo,Central
+EB-13840,Male,Married,501.0,23.0,Customer Service,Ellis Ballard,West
+SC-20800,Female,Not Married,1681.0,26.0,Customer Analyst,Stuart Calhoun,Central
+NF-18385,Male,Married,498.0,23.0,Self Employed,Natalie Fritzler,South
+DC-12850,Female,Not Married,168.0,27.0,Staff,Dan Campbell,South
+RS-19420,Female,Married,1515.0,26.0,Customer Analyst,Ricardo Sperren,East
+PF-19165,Female,Not Married,320.0,17.0,Customer Service,Philip Fox,West
+DB-12910,Female,Not Married,1265.0,26.0,Customer Analyst,Daniel Byrd,South
+EB-13705,Female,Not Married,1666.0,35.0,Officer,Ed Braxton,East
+DH-13675,Male,Not Married,2617.0,36.0,Senior Customer Relation,Duane Huffman,South
+RM-19750,Female,Married,2351.0,60.0,Senior Customer Relation,Roland Murray,East
+AA-10645,Female,Married,970.0,21.0,Staff,Anna Andreadi,East
+MK-17905,Female,Married,501.0,19.0,Staff,Michael Kennedy,South
+TG-21640,Female,Not Married,1473.0,28.0,Officer,Trudy Glocke,West
+RF-19735,Male,Married,,,,Roland Fjeld,Central
+SN-20560,Male,Married,920.0,26.0,Staff,Skye Norling,West
+JB-16045,Male,Married,2378.0,49.0,Consultant,Julia Barnett,East
+DB-13555,Female,Not Married,374.0,24.0,Self Employed,Dorothy Badders,South
+KM-16720,Male,Married,1296.0,42.0,Customer Analyst,Kunst Miller,West
+JK-15640,Male,Not Married,2267.0,26.0,Consultant,Jim Kriz,East
+SJ-20125,Female,Married,1701.0,28.0,Officer,Sanjit Jacobs,South
+CC-12685,Male,Not Married,1162.0,30.0,Officer,Craig Carroll,South
+AR-10540,Male,Married,498.0,25.0,Customer Service,Andy Reiter,East
+JK-15370,Male,Not Married,2073.0,38.0,Senior Customer Relation,Jay Kimmel,West
+CS-12355,Female,Married,281.0,22.0,Self Employed,Christine Sundaresam,South
+JE-15610,Male,Not Married,426.0,23.0,Staff,Jim Epp,South
+TP-21415,Male,Married,498.0,38.0,Staff,Tom Prescott,Central
+AR-10825,Female,Married,499.0,23.0,Staff,Anthony Rawles,West
+BC-11125,Male,Married,500.0,20.0,Customer Service,Becky Castell,West
+JK-15325,Male,Not Married,2754.0,27.0,Consultant,Jason Klamczynski,Central
+JK-16090,Male,Not Married,499.0,15.0,Staff,Juliana Krohn,West
+CM-11815,Male,Not Married,1025.0,30.0,Officer,Candace McMahon,West
+EH-13990,Female,Not Married,1826.0,28.0,Officer,Erica Hackney,East
+EM-14095,Male,Not Married,271.0,35.0,Customer Service,Eudokia Martin,West
+AH-10585,Female,Not Married,1930.0,35.0,Officer,Angele Hood,West
+AG-10495,Female,Divorced,1226.0,44.0,Customer Analyst,Andrew Gjertsen,South
+MA-17995,Female,Married,2144.0,61.0,Senior Customer Relation,Michelle Arnett,West
+VF-21715,Male,Not Married,2453.0,37.0,Consultant,Vicky Freymann,West
+EP-13915,Male,Married,719.0,35.0,Staff,Emily Phan,Central
+RS-19870,Male,Not Married,792.0,32.0,Customer Service,Roy Skaria,Central
+KW-16570,Female,Not Married,498.0,22.0,Customer Service,Kelly Williams,South
+PK-18910,Male,Married,1058.0,26.0,Officer,Paul Knutson,East
+JJ-15760,Male,Not Married,1175.0,26.0,Officer,Joel Jenkins,South
+GT-14635,Male,Not Married,455.0,19.0,Self Employed,Grant Thornton,East
+DJ-13510,Male,Not Married,499.0,24.0,Customer Service,Don Jones,South
+AG-10330,Female,Married,792.0,27.0,Self Employed,Alex Grayson,Central
+MC-17590,Female,Married,1666.0,47.0,Officer,Matt Collister,Central
+PG-18820,Male,Not Married,890.0,,Self Employed,Patrick Gardner,West
+JP-16135,Female,Not Married,716.0,20.0,Staff,Julie Prescott,East
+DM-13015,Female,Married,500.0,21.0,Staff,Darrin Martin,East
+AY-10555,Male,Not Married,1490.0,28.0,Customer Analyst,Andy Yotov,West
+CS-11950,Male,Married,3025.0,42.0,Manager Director,Carlos Soltero,East
+MS-17980,Male,Married,3050.0,61.0,BOD,Michael Stewart,East
+JH-15430,Male,Married,636.0,39.0,Customer Service,Jennifer Halladay,South
+MG-17875,Male,Not Married,558.0,26.0,Self Employed,Michael Grace,South
+CS-12460,Female,Married,827.0,22.0,Customer Service,Chuck Sachs,East
+KN-16705,Female,Married,140.0,25.0,Customer Service,Kristina Nunn,West
+WB-21850,Male,Not Married,1149.0,26.0,Officer,William Brown,West
+AF-10870,Female,Not Married,1020.0,26.0,Customer Analyst,Art Ferguson,East
+TS-21505,Female,Not Married,657.0,30.0,Customer Service,Tony Sayre,West
+EB-14110,Female,Not Married,502.0,21.0,Staff,Eugene Barchas,East
+EG-13900,Male,Not Married,863.0,25.0,Customer Service,Emily Grady,East
+NB-18655,Female,Married,500.0,22.0,Staff,Nona Balk,Central
+MZ-17515,Female,Married,1150.0,25.0,Officer,Mary Zewe,West
+QJ-19255,Male,Not Married,1182.0,29.0,Customer Analyst,Quincy Jones,East
+GA-14725,Male,Married,897.0,23.0,Self Employed,Guy Armstrong,Central
+PW-19030,Female,Married,2142.0,48.0,Senior Customer Relation,Pauline Webber,East
+PO-19195,Male,Not Married,2614.0,38.0,Senior Customer Relation,Phillina Ober,East
+LO-17170,Female,Not Married,920.0,20.0,Self Employed,Lori Olson,Central
+EM-13960,Male,Married,926.0,23.0,Staff,Eric Murdock,East
+DB-13210,Female,Not Married,1606.0,29.0,Customer Analyst,Dean Braden,Central
+MC-17575,Female,Not Married,304.0,26.0,Customer Service,Matt Collins,East
+NF-18595,Female,Not Married,851.0,23.0,Customer Service,Nicole Fjeld,East
+ES-14020,Male,Not Married,1458.0,32.0,Officer,Erica Smith,West
+BW-11110,Female,Not Married,1772.0,32.0,Officer,Bart Watters,West
+TS-21370,Male,Not Married,1710.0,37.0,Officer,Todd Sumrall,East
+RD-19900,Male,Divorced,1527.0,40.0,Officer,Ruben Dartt,West
+PH-18790,Male,Married,1780.0,42.0,Officer,Patricia Hirasaki,South
+MM-18055,Male,Married,1194.0,37.0,Officer,Michelle Moray,West
+ML-17755,Female,Not Married,828.0,19.0,Customer Service,Max Ludwig,South
+VP-21730,Female,Married,2383.0,33.0,Consultant,Victor Preis,East
+AM-10360,Male,Not Married,1506.0,29.0,Customer Analyst,Alice McCarthy,West
+ME-17725,Female,Married,500.0,23.0,Customer Service,Max Engle,West
+JS-15595,Male,Not Married,1189.0,39.0,Officer,Jill Stevenson,Central
+ZD-21925,Male,Divorced,194.0,37.0,Staff,Zuschuss Donatelli,West
+CC-12370,Male,Married,1664.0,51.0,Officer,Christopher Conant,East
+LC-16885,Female,Divorced,1733.0,36.0,Customer Analyst,Lena Creighton,West
+EC-14050,Male,Not Married,499.0,30.0,Staff,Erin Creighton,East
+PM-19135,Female,Married,1677.0,24.0,Officer,Peter McVee,East
+HM-14980,Male,Not Married,1588.0,47.0,Officer,Henry MacAllister,West
+SE-20110,Female,Married,2421.0,43.0,Consultant,Sanjit Engle,West
+TN-21040,Female,Married,1081.0,52.0,Customer Analyst,Tanja Norvell,West
+GG-14650,Female,Divorced,1503.0,42.0,Customer Analyst,Greg Guthrie,West
+TM-21010,Male,Not Married,1294.0,23.0,Officer,Tamara Manning,West
+MS-17710,Female,Not Married,1022.0,39.0,Customer Analyst,Maurice Satty,Central
+LT-16765,Female,Married,1387.0,29.0,Officer,Larry Tron,West
+JG-15805,Male,Married,773.0,23.0,Staff,John Grady,East
+RK-19300,Female,Married,501.0,18.0,Customer Service,Ralph Kennedy,Central
+CW-11905,Female,Married,1986.0,53.0,Customer Analyst,Carl Weiss,West
+RP-19855,Male,Married,499.0,22.0,Staff,Roy Phan,Central
+TS-21340,Female,Not Married,1635.0,29.0,Customer Analyst,Toby Swindell,West
+JH-16180,Male,Not Married,822.0,23.0,Self Employed,Justin Hirsh,East
+MM-17920,Male,Married,2065.0,47.0,Senior Customer Relation,Michael Moore,East
+JH-15820,Male,Not Married,1028.0,25.0,Customer Analyst,John Huston,East
+MO-17500,Female,Married,381.0,21.0,Self Employed,Mary O'Rourke,East
+KC-16540,Female,Married,169.0,23.0,Staff,Kelly Collister,West
+CH-12070,Male,Not Married,424.0,19.0,Staff,Cathy Hwang,East
+EA-14035,Male,Married,1288.0,44.0,Customer Analyst,Erin Ashbrook,East
+DB-13060,Female,Married,500.0,23.0,Customer Service,Dave Brooks,Central
+DR-12940,Female,Married,684.0,21.0,Self Employed,Daniel Raglin,East
+SV-20365,Female,Married,1080.0,45.0,Officer,Seth Vernon,East
+LS-17230,Male,Married,1216.0,33.0,Officer,Lycoris Saunders,Central
+MG-18205,Female,Not Married,647.0,28.0,Staff,Mitch Gastineau,South
+JF-15190,Male,Married,1278.0,29.0,Officer,Jamie Frazer,East
+JL-15505,Female,Not Married,1140.0,28.0,Customer Analyst,Jeremy Lonsdale,West
+VD-21670,Female,Not Married,37.0,24.0,Self Employed,Valerie Dominguez,West
+SV-20935,Female,Married,,,,Susan Vittorini,East
+RA-19885,Male,Married,1375.0,54.0,Officer,Ruben Ausman,South
+LS-17200,Male,Married,,,,Luke Schmidt,Central
+DL-12865,Male,Not Married,983.0,23.0,Self Employed,Dan Lawera,West
+DB-13660,Male,Married,935.0,23.0,Self Employed,Duane Benoit,East
+AH-10075,Female,Not Married,2795.0,28.0,Consultant,Adam Hart,East
+BD-11725,Female,Married,1247.0,47.0,Customer Analyst,Bruce Degenhardt,South
+DB-13360,Male,Not Married,1726.0,34.0,Officer,Dennis Bolton,East
+KB-16315,Male,Divorced,1812.0,30.0,Customer Analyst,Karl Braun,East
+GM-14440,Male,Married,499.0,24.0,Staff,Gary McGarr,West
+BT-11680,Female,Not Married,2336.0,39.0,Consultant,Brian Thompson,East
+CS-12490,Male,Not Married,1515.0,28.0,Customer Analyst,Cindy Schnelling,East
+MM-17260,Female,Married,339.0,23.0,Customer Service,Magdelene Morse,East
+JD-16150,Female,Married,500.0,33.0,Customer Service,Justin Deggeller,West
+TZ-21580,Male,Married,1858.0,42.0,Officer,Tracy Zic,West
+AS-10225,Female,Married,579.0,25.0,Customer Service,Alan Schoenberger,West
+MD-17860,Male,Not Married,796.0,18.0,Staff,Michael Dominguez,Central
+BD-11635,Female,Married,877.0,22.0,Self Employed,Brian Derr,East
+IG-15085,Female,Not Married,191.0,25.0,Staff,Ivan Gibson,West
+CB-12535,Female,Not Married,502.0,39.0,Customer Service,Claudia Bergmann,East
+LC-16930,Female,Divorced,498.0,22.0,Customer Service,Linda Cazamias,West
+MB-18085,Female,Married,2226.0,39.0,Senior Customer Relation,Mick Brown,South
+LB-16795,Female,Not Married,442.0,20.0,Customer Service,Laurel Beltran,West
+NZ-18565,Female,Married,1387.0,29.0,Customer Analyst,Nick Zandusky,West
+DS-13030,Female,Not Married,2500.0,41.0,Consultant,Darrin Sayre,West
+FH-14365,Female,Divorced,500.0,23.0,Self Employed,Fred Hopkins,West
+LE-16810,Female,Divorced,501.0,23.0,Customer Service,Laurel Elliston,Central
+SM-20905,Female,Not Married,464.0,29.0,Customer Service,Susan MacKendrick,East
+LS-16945,Female,Not Married,1966.0,27.0,Officer,Linda Southworth,West
+BG-11740,Female,Married,678.0,20.0,Staff,Bruce Geld,West
+CM-12715,Male,Married,2367.0,33.0,Senior Customer Relation,Craig Molinari,Central
+RW-19690,Female,Married,1319.0,52.0,Customer Analyst,Robert Waldorf,Central
+RC-19960,Female,Married,681.0,20.0,Staff,Ryan Crowe,East
+ML-18040,Male,Married,1587.0,30.0,Officer,Michelle Lonsdale,West
+IL-15100,Female,Not Married,704.0,34.0,Staff,Ivan Liston,Central
+HL-15040,Male,Not Married,501.0,21.0,Self Employed,Hunter Lopez,South
+JE-16165,Female,Not Married,1650.0,37.0,Customer Analyst,Justin Ellison,Central
+JM-15580,Male,Married,1328.0,37.0,Customer Analyst,Jill Matthias,West
+MC-17425,Female,Married,499.0,23.0,Self Employed,Mark Cousins,South
+PW-19240,Male,Married,907.0,21.0,Self Employed,Pierre Wener,East
+VM-21835,Female,Not Married,2044.0,26.0,Senior Customer Relation,Vivian Mathis,East
+EK-13795,Male,Married,917.0,24.0,Customer Service,Eileen Kiefer,West
+CD-12790,Female,Not Married,1708.0,25.0,Officer,Cynthia Delaney,West
+PO-18865,Female,Married,1915.0,29.0,Officer,Patrick O'Donnell,East
+TC-21475,Female,Married,21.0,21.0,Customer Service,Tony Chapman,West
+NC-18535,Male,Married,2258.0,47.0,Senior Customer Relation,Nick Crebassa,West
+PB-19150,Female,Married,501.0,24.0,Self Employed,Philip Brown,West
+MJ-17740,Female,Married,552.0,39.0,Self Employed,Max Jones,West
+SB-20185,Female,Not Married,,,,Sarah Brown,West
+CD-11980,Female,Married,2019.0,41.0,Consultant,Carol Darley,Central
+HA-14905,Male,Not Married,500.0,38.0,Customer Service,Helen Abelman,East
+GZ-14545,Female,Married,999.0,24.0,Self Employed,George Zrebassa,West
+AO-10810,Male,Married,500.0,24.0,Self Employed,Anthony O'Donnell,West
+SC-20680,Female,Not Married,1343.0,25.0,Customer Analyst,Steve Carroll,West
+RB-19360,Male,Not Married,1473.0,34.0,Customer Analyst,Raymond Buch,East
+HM-14860,Female,Married,,,,Harry Marie,Central
+TT-21460,Male,Married,2841.0,43.0,Consultant,Tonja Turnell,Central
+GM-14500,Female,Married,2177.0,43.0,Senior Customer Relation,Gene McClure,East
+DG-13300,Female,Not Married,859.0,26.0,Staff,Deirdre Greer,East
+JF-15565,Male,Not Married,1190.0,28.0,Officer,Jill Fjeld,South
+KB-16240,Female,Not Married,1922.0,25.0,Customer Analyst,Karen Bern,Central
+JO-15280,Female,Not Married,2541.0,38.0,Consultant,Jas O'Carroll,West
+TT-21265,Female,Married,499.0,25.0,Customer Service,Tim Taslimi,West
+SH-20635,Male,Married,1539.0,52.0,Officer,Stefanie Holloman,South
+LW-16825,Female,Not Married,888.0,23.0,Staff,Laurel Workman,West
+HP-14815,Male,Divorced,1996.0,28.0,Customer Analyst,Harold Pawlan,Central
+KM-16375,Female,Married,1881.0,46.0,Customer Analyst,Katherine Murray,West
+BT-11395,Male,Not Married,903.0,21.0,Self Employed,Bill Tyler,West
+BS-11380,Female,Married,24.0,17.0,Self Employed,Bill Stewart,West
+CK-12325,Female,Married,699.0,21.0,Staff,Christine Kargatis,East
+AS-10240,Female,Married,1185.0,30.0,Customer Analyst,Alan Shonely,South
+BE-11335,Female,Married,1476.0,43.0,Officer,Bill Eplett,Central
+DK-12835,Male,Married,1739.0,38.0,Officer,Damala Kotsonis,West
+AH-10195,Female,Married,500.0,24.0,Self Employed,Alan Haines,East
+MW-18235,Male,Not Married,826.0,23.0,Customer Service,Mitch Willingham,South
+LP-17095,Female,Married,2513.0,57.0,Consultant,Liz Preis,Central
+SL-20155,Female,Married,427.0,34.0,Self Employed,Sara Luxemburg,South
+JL-15235,Male,Not Married,194.0,24.0,Staff,Janet Lee,East
+RD-19660,Male,Not Married,1651.0,31.0,Customer Analyst,Robert Dilbeck,Central
+LS-17245,Male,Not Married,2491.0,34.0,Senior Customer Relation,Lynn Smith,East
+JM-16195,Male,Married,1310.0,25.0,Officer,Justin MacKendrick,West
+EJ-13720,Male,Not Married,499.0,24.0,Staff,Ed Jacobs,West
+GB-14530,Male,Not Married,110.0,33.0,Staff,George Bell,East
+JG-15310,Male,Not Married,2638.0,35.0,Senior Customer Relation,Jason Gross,East
+MY-17380,Female,Married,1101.0,39.0,Customer Analyst,Maribeth Yedwab,West
+PP-18955,Female,Not Married,1220.0,27.0,Customer Analyst,Paul Prost,East
+KH-16360,Female,Married,66.0,23.0,Customer Service,Katherine Hughes,Central
+AI-10855,Female,Married,639.0,24.0,Staff,Arianne Irving,West
+EH-14185,Female,Married,675.0,22.0,Staff,Evan Henry,East
+CA-12310,Female,Married,2152.0,71.0,Consultant,Christine Abelman,East
+LD-16855,Female,Not Married,1764.0,27.0,Officer,Lela Donovan,Central
+PB-19210,Female,Married,1142.0,24.0,Officer,Phillip Breyer,Central
+LB-16735,Female,Not Married,605.0,34.0,Staff,Larry Blacks,Central
+CV-12805,Female,Married,200.0,23.0,Staff,Cynthia Voltz,Central
+TB-21055,Female,Married,1551.0,42.0,Customer Analyst,Ted Butterfield,East
+DL-13495,Female,Married,2330.0,51.0,Consultant,Dionis Lloyd,West
+KC-16675,Female,Not Married,1840.0,34.0,Officer,Kimberly Carter,South
+MG-17650,Male,Not Married,708.0,22.0,Self Employed,Matthew Grinstein,Central
+CC-12670,Female,Married,154.0,21.0,Self Employed,Craig Carreira,South
+CB-12415,Male,Married,1175.0,50.0,Officer,Christy Brittain,East
+JO-15145,Female,Not Married,2873.0,33.0,Senior Customer Relation,Jack O'Briant,West
+TH-21115,Male,Married,501.0,39.0,Self Employed,Thea Hudgings,East
+HA-14920,Male,Divorced,3004.0,42.0,Manager Director,Helen Andreada,West
+BT-11305,Female,Not Married,996.0,25.0,Self Employed,Beth Thompson,West
+CC-12220,Male,Married,500.0,18.0,Staff,Chris Cortes,West
+CB-12025,Female,Divorced,2711.0,46.0,Consultant,Cassandra Brandow,East
+KE-16420,Female,Not Married,501.0,21.0,Customer Service,Katrina Edelman,West
+BF-11080,Female,Not Married,2714.0,40.0,Senior Customer Relation,Bart Folk,East
+BF-11020,Female,Married,2383.0,38.0,Consultant,Barry Französisch,Central
+AT-10435,Male,Not Married,1892.0,32.0,Customer Analyst,Alyssa Tate,West
+LD-17005,Male,Married,1769.0,29.0,Officer,Lisa DeCherney,East
+TC-21295,Female,Married,483.0,21.0,Self Employed,Toby Carlisle,West
+MH-18115,Female,Married,1342.0,44.0,Customer Analyst,Mick Hernandez,Central
+AJ-10780,Male,Married,1548.0,53.0,Officer,Anthony Jacobs,East
+DW-13540,Female,Married,144.0,21.0,Customer Service,Don Weiss,West
+DV-13465,Female,Not Married,781.0,31.0,Self Employed,Dianna Vittorini,West
+JS-15940,Female,Not Married,1537.0,28.0,Officer,Joni Sundaresam,East
+NP-18325,Male,Married,1290.0,49.0,Customer Analyst,Naresj Patel,East
+ME-18010,Male,Married,1106.0,27.0,Customer Analyst,Michelle Ellison,West
+CS-12400,Male,Not Married,1356.0,27.0,Customer Analyst,Christopher Schild,South
+HG-14965,Female,Married,500.0,21.0,Staff,Henry Goldwyn,West
+TT-21220,Female,Not Married,1716.0,29.0,Customer Analyst,Thomas Thornton,Central
+CS-11860,Male,Not Married,1543.0,28.0,Customer Analyst,Cari Schnelling,East
+TS-21205,Male,Married,1172.0,43.0,Officer,Thomas Seio,West
+GR-14560,Male,Married,2321.0,54.0,Consultant,Georgia Rosenberg,East
+RW-19540,Female,Not Married,368.0,30.0,Customer Service,Rick Wilson,West
+Co-12640,Female,Not Married,1763.0,33.0,Officer,Corey-Lock,Central
+KA-16525,Male,Married,318.0,22.0,Staff,Kelly Andreada,East

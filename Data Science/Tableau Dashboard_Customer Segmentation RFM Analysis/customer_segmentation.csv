@@ -1,0 +1,794 @@
+Customer ID,Cluster Demo,recency,frequency,monetary,segment_overall_scoring,RFM_cluster
+FC-14335,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",184.0,10,3889.3659999999995,B,Recent Customer
+JP-15520,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",8.0,16,3635.594,B,Recent Customer
+SR-20425,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",8.0,9,3233.4810000000007,B,Recent Customer
+ST-20530,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",125.0,12,433.34,B,Recent Customer
+JL-15130,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",8.0,12,1214.956,B,Recent Customer
+BM-11140,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",307.0,16,11789.630000000001,B,Big Amount Sales
+SG-20470,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",183.0,14,1884.7980000000002,B,Recent Customer
+CM-12445,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",436.0,9,287.98999999999995,C,Almost Lost
+DM-12955,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",114.0,9,1322.0340000000003,C,Recent Customer
+TS-21610,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",55.0,11,2820.4240000000004,B,Recent Customer
+BN-11515,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",9.0,17,1459.344,B,Recent Customer
+DP-13165,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",812.0,4,1058.616,C,Lost Cheap Customer
+CV-12295,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",254.0,13,2830.6279999999997,B,Others
+KH-16510,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",22.0,23,5952.859000000002,A,Others
+SH-19975,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",29.0,29,3406.8394999999996,A,Others
+DK-13225,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",10.0,19,4802.393999999999,A,Others
+SC-20305,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",29.0,12,3979.0649999999996,B,Recent Customer
+AS-10090,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",28.0,25,3255.3100000000004,A,Others
+RD-19720,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",21.0,20,1419.7370000000003,B,Others
+BS-11800,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",265.0,8,949.4300000000001,C,Almost Lost
+CS-12175,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",232.0,8,844.4580000000001,C,Almost Lost
+HH-15010,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",72.0,6,218.668,C,Recent Customer
+DJ-13420,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",637.0,5,2012.5200000000002,C,Lost Cheap Customer
+AD-10180,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",29.0,12,6106.879999999999,B,Recent Customer
+AG-10675,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",97.0,15,3489.0396,B,Recent Customer
+CP-12340,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",160.0,15,5888.275000000001,B,Recent Customer
+SC-20575,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",92.0,7,902.7280000000001,C,Recent Customer
+ML-18265,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",100.0,3,162.232,C,Recent Customer
+PB-19105,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",57.0,5,688.3240000000001,C,Recent Customer
+RD-19480,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",72.0,15,4272.93,B,Recent Customer
+SZ-20035,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",35.0,20,3625.3289999999997,A,Others
+GB-14575,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",13.0,16,4716.2880000000005,B,Recent Customer
+PT-19090,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",71.0,7,160.57199999999997,C,Recent Customer
+JK-16120,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",117.0,17,2932.4840000000004,B,Recent Customer
+KD-16615,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",289.0,13,2243.5099999999998,C,Almost Lost
+RB-19435,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",19.0,16,2663.0860000000002,B,Recent Customer
+KM-16225,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",14.0,19,2260.9579999999996,B,Others
+AH-10120,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",60.0,16,1735.5140000000001,B,Recent Customer
+KH-16630,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",58.0,17,3918.966,B,Recent Customer
+JF-15355,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",105.0,16,1911.8440000000003,B,Recent Customer
+SG-20080,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",8.0,11,3406.5810000000006,B,Recent Customer
+MG-17890,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",99.0,13,776.384,B,Recent Customer
+CR-12625,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",470.0,4,475.9000000000001,C,Almost Lost
+AA-10375,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",19.0,15,1056.39,B,Recent Customer
+KT-16465,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",391.0,14,3057.0999999999995,B,Others
+SB-20290,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",47.0,17,8057.890999999997,A,Others
+AT-10735,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",13.0,16,3831.8640000000005,B,Recent Customer
+MS-17830,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",452.0,5,370.34799999999996,C,Almost Lost
+AG-10900,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",96.0,21,4510.7970000000005,A,Others
+SC-20770,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",41.0,21,4492.657,A,Others
+BT-11530,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",91.0,10,2684.492,C,Recent Customer
+FM-14290,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",36.0,20,3736.1979999999994,A,Others
+NG-18430,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",48.0,9,1395.938,C,Recent Customer
+KW-16435,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",96.0,10,4416.52,B,Recent Customer
+DD-13570,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",41.0,9,269.54200000000003,C,Recent Customer
+SA-20830,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",63.0,21,4767.3415,A,Others
+DP-13000,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",126.0,17,1050.636,B,Recent Customer
+DK-13090,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",42.0,13,2650.557,B,Recent Customer
+DV-13045,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",19.0,9,1119.4830000000004,C,Recent Customer
+TC-21145,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",106.0,4,1038.26,C,Recent Customer
+JD-15895,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",394.0,32,7610.864,A,Others
+RB-19330,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",68.0,6,1008.1959999999999,C,Recent Customer
+CS-11845,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",91.0,8,1278.954,C,Recent Customer
+SF-20200,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",59.0,15,3422.786,B,Recent Customer
+DA-13450,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",352.0,8,156.76,C,Almost Lost
+PC-18745,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,5,1832.064,C,Recent Customer
+ON-18715,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",410.0,15,1567.52,C,Almost Lost
+EN-13780,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",287.0,9,2199.366,C,Almost Lost
+DK-12985,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",7.0,8,1687.04,C,Recent Customer
+RM-19675,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",6.0,11,5979.0960000000005,B,Recent Customer
+SV-20785,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",320.0,25,4105.304999999999,B,Loyal Customer
+DK-13375,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",19.0,23,3318.4859999999994,A,Others
+JK-15205,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",61.0,13,4427.142000000001,B,Recent Customer
+AC-10420,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",232.0,5,925.8000000000002,C,Almost Lost
+JC-16105,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",57.0,9,858.576,C,Recent Customer
+SK-19990,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",8.0,5,883.409,C,Recent Customer
+JM-15655,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",8.0,12,864.9470000000001,B,Recent Customer
+JP-15460,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",37.0,15,1669.1350000000002,B,Recent Customer
+MC-18100,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",41.0,19,2218.9800000000005,B,Others
+JF-15415,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,14,2371.448,B,Recent Customer
+EB-13750,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",35.0,20,3236.3139999999994,A,Others
+BF-11005,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",39.0,10,1333.88,C,Recent Customer
+AB-10255,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",166.0,14,914.532,B,Recent Customer
+MW-18220,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",17.0,14,5341.900000000001,B,Recent Customer
+CS-12130,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",489.0,7,884.6400000000001,C,Almost Lost
+JG-15115,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",758.0,7,2358.676,C,Lost Cheap Customer
+TA-21385,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",69.0,10,14595.62,B,Others
+PO-18850,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",4.0,22,7473.828200000002,A,Best Customer
+JK-15625,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",61.0,12,3760.028,B,Recent Customer
+CC-12550,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",27.0,4,113.832,C,Recent Customer
+ND-18370,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",27.0,18,4326.139,B,Recent Customer
+KB-16585,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",230.0,23,2744.742,B,Loyal Customer
+DR-12880,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",3.0,24,6528.034,A,Others
+RH-19555,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",519.0,3,740.382,C,Almost Lost
+BD-11500,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",35.0,10,4411.243,B,Recent Customer
+JS-16030,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",28.0,18,2516.4939999999997,B,Recent Customer
+MH-17620,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",155.0,6,1252.8000000000002,C,Recent Customer
+RB-19465,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",9.0,23,4715.466000000001,A,Others
+NL-18310,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",58.0,10,1418.0900000000004,C,Recent Customer
+TG-21310,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",337.0,9,3058.3720000000003,C,Almost Lost
+PL-18925,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",15.0,8,239.48100000000005,C,Recent Customer
+SW-20350,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",162.0,6,1019.0439999999999,C,Recent Customer
+BS-11590,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",35.0,10,2454.928000000001,C,Recent Customer
+SR-20740,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",196.0,12,4345.8859999999995,B,Recent Customer
+KF-16285,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",97.0,18,10604.266,A,Others
+NG-18355,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",48.0,16,1869.58,B,Recent Customer
+HK-14890,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",151.0,15,4877.784,B,Recent Customer
+CD-12280,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",42.0,13,1205.5840000000003,B,Recent Customer
+SP-20650,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",386.0,15,1872.4360000000001,C,Almost Lost
+LC-17050,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",54.0,9,2095.064,C,Recent Customer
+NS-18640,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",174.0,26,2964.8229999999994,A,Others
+SC-20260,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",187.0,18,3729.7929999999997,B,Recent Customer
+VP-21760,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",75.0,14,3360.526,B,Recent Customer
+AP-10915,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",98.0,31,3323.556,A,Others
+DM-13345,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",22.0,13,4074.472000000001,B,Recent Customer
+PA-19060,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",103.0,7,729.4080000000001,C,Recent Customer
+RB-19705,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",54.0,7,2067.45,C,Recent Customer
+AB-10165,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",25.0,14,1113.8380000000002,B,Recent Customer
+RE-19450,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",302.0,9,876.696,C,Almost Lost
+OT-18730,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",65.0,10,3818.6240000000003,B,Recent Customer
+MS-17770,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",121.0,19,3144.678,A,Others
+TB-21355,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",146.0,13,834.328,B,Recent Customer
+NH-18610,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",189.0,11,2673.2899999999995,B,Recent Customer
+MF-18250,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",7.0,12,1758.3,B,Recent Customer
+JM-15865,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",109.0,13,7625.076000000002,A,Others
+JB-16000,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",43.0,7,644.1188,C,Recent Customer
+JW-15220,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",42.0,14,7721.714,A,Others
+CK-12205,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",39.0,32,3154.855,A,Others
+EB-13930,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",161.0,7,944.5999999999999,C,Recent Customer
+GP-14740,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",765.0,5,236.53,C,Lost Cheap Customer
+RH-19495,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",32.0,8,3621.3759999999997,B,Recent Customer
+LS-16975,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",20.0,22,2988.674,A,Others
+AS-10135,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",41.0,3,58.82,C,Recent Customer
+BP-11050,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",83.0,7,983.4199999999998,C,Recent Customer
+DW-13585,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",242.0,10,1204.854,C,Almost Lost
+BN-11470,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",24.0,6,265.296,C,Recent Customer
+TB-21400,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",202.0,17,9133.99,A,Others
+BD-11605,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",97.0,20,3288.471,A,Others
+LA-16780,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",154.0,26,8673.221999999998,A,Best Customer
+KS-16300,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",295.0,4,88.47200000000001,C,Almost Lost
+SC-20380,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",30.0,20,5992.535999999999,A,Others
+JW-15955,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",5.0,11,1244.086,B,Recent Customer
+AF-10885,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",415.0,7,861.5649999999999,C,Almost Lost
+RR-19315,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",19.0,4,615.932,C,Recent Customer
+MC-17605,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",112.0,18,2258.192,B,Recent Customer
+MT-17815,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",49.0,10,2890.139,B,Recent Customer
+CA-12775,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",120.0,17,3041.566,B,Recent Customer
+LW-17125,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",205.0,5,1259.04,C,Recent Customer
+FG-14260,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",34.0,11,1383.1440000000002,B,Recent Customer
+Dp-13240,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",84.0,29,7198.760999999999,A,Best Customer
+SG-20890,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",226.0,5,47.946,C,Almost Lost
+BD-11560,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",278.0,4,320.53999999999996,C,Almost Lost
+JM-15265,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",37.0,13,1804.1460000000002,B,Recent Customer
+SU-20665,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",20.0,18,2595.3640000000005,B,Recent Customer
+YC-21895,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",4.0,8,5454.35,B,Recent Customer
+JO-15550,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",215.0,11,1090.8380000000002,C,Almost Lost
+LC-16960,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",436.0,7,3246.626,C,Almost Lost
+BD-11770,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",327.0,10,658.4660000000001,C,Almost Lost
+TT-21070,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",31.0,14,4915.602,B,Recent Customer
+DB-13405,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",187.0,14,1711.692,B,Recent Customer
+TD-20995,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",37.0,16,1434.548,B,Recent Customer
+BE-11410,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",98.0,5,2261.438,C,Recent Customer
+JF-15295,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",225.0,14,955.1240000000003,C,Almost Lost
+LH-17020,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",239.0,6,318.23900000000003,C,Almost Lost
+MH-17290,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",119.0,13,2394.0249999999996,B,Recent Customer
+SC-20020,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",781.0,17,3362.963599999999,C,Lost Customer
+BK-11260,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",77.0,16,659.138,B,Recent Customer
+SN-20710,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",79.0,19,3127.9592000000007,A,Others
+PR-18880,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",36.0,12,1840.1779999999999,B,Recent Customer
+PN-18775,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",30.0,13,1467.1519999999998,B,Recent Customer
+CM-12385,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",37.0,10,8954.02,B,Others
+PO-19180,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",160.0,18,4893.043000000001,B,Recent Customer
+DO-13645,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",26.0,11,1267.316,B,Recent Customer
+RD-19810,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",14.0,16,1137.6159999999998,B,Recent Customer
+SC-20095,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",349.0,22,14142.333999999999,A,Others
+AC-10450,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",11.0,9,5527.8460000000005,B,Recent Customer
+EM-14140,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",48.0,21,4588.436,A,Others
+KM-16660,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",15.0,9,453.538,C,Recent Customer
+NP-18685,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",406.0,7,1228.698,C,Almost Lost
+LR-16915,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",26.0,16,5142.892,B,Recent Customer
+EL-13735,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",77.0,2,124.28,C,Recent Customer
+RL-19615,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",121.0,24,6234.909999999999,A,Others
+GH-14425,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",50.0,10,4172.8460000000005,B,Recent Customer
+TR-21325,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",193.0,7,675.942,C,Recent Customer
+JS-15685,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",42.0,11,1131.064,B,Recent Customer
+SP-20620,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",47.0,24,5440.3189999999995,A,Others
+ED-13885,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",135.0,14,3484.92,B,Recent Customer
+MP-17470,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",719.0,14,3206.132,C,Lost Customer
+SV-20815,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",76.0,6,1271.0900000000004,C,Recent Customer
+PF-19120,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",835.0,19,9062.863999999998,B,Others
+RP-19390,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",33.0,25,5153.084,A,Others
+VM-21685,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",54.0,12,2454.866,B,Recent Customer
+JL-15850,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",614.0,11,2725.2560000000003,C,Lost Cheap Customer
+HE-14800,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",12.0,11,883.5320000000002,B,Recent Customer
+LH-16900,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",21.0,15,2295.3320000000003,B,Recent Customer
+BM-11575,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",100.0,10,808.1619999999999,C,Recent Customer
+PF-19225,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",114.0,10,2206.1279999999997,C,Recent Customer
+EJ-14155,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,8,2656.691,C,Recent Customer
+HJ-14875,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",126.0,6,358.1,C,Recent Customer
+VG-21790,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",154.0,8,846.0100000000001,C,Recent Customer
+FA-14230,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",97.0,17,2984.053999999999,B,Recent Customer
+KN-16450,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",52.0,8,2171.9620000000004,C,Recent Customer
+PJ-18835,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",39.0,13,1220.0900000000001,B,Recent Customer
+AZ-10750,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",160.0,12,1622.018,B,Recent Customer
+IM-15055,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",409.0,4,2872.6300000000006,C,Almost Lost
+AG-10765,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",77.0,5,170.584,C,Recent Customer
+RF-19345,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",390.0,16,3309.1500000000005,B,Others
+VT-21700,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",1000.0,9,1736.596,C,Lost Cheap Customer
+LC-17140,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",13.0,19,2633.582,B,Others
+BP-11155,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",89.0,11,1697.861,B,Recent Customer
+HF-14995,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",21.0,19,2533.1639999999998,B,Others
+NC-18340,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",224.0,17,2461.404000000001,C,Almost Lost
+SS-20875,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",120.0,15,964.6360000000002,B,Recent Customer
+EM-14065,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",47.0,6,228.99,C,Recent Customer
+SF-20965,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",48.0,17,3336.535,B,Recent Customer
+KL-16645,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",47.0,29,14175.229,A,Best Customer
+TP-21565,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",350.0,10,1936.64,C,Almost Lost
+JR-16210,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",33.0,10,2201.686,C,Recent Customer
+IM-15070,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",390.0,21,4930.473999999999,B,Loyal Customer
+RA-19285,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",5.0,17,2617.9060000000004,B,Recent Customer
+HG-14845,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",54.0,10,785.628,C,Recent Customer
+TC-20980,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",399.0,12,19052.217999999993,B,Big Amount Sales
+HG-15025,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",6.0,11,3690.284,B,Recent Customer
+AC-10615,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",6.0,18,2537.686,B,Recent Customer
+DP-13390,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",358.0,14,5480.724,B,Others
+AH-10210,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",6.0,13,4805.344,B,Recent Customer
+HR-14770,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",13.0,13,1299.2879999999998,B,Recent Customer
+AB-10060,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",54.0,18,7755.620000000001,A,Others
+YS-21880,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",9.0,12,6720.444,B,Recent Customer
+AB-10105,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",41.0,20,14473.570999999998,A,Best Customer
+AR-10510,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",14.0,7,264.86400000000003,C,Recent Customer
+TB-21175,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",58.0,11,3589.296,B,Recent Customer
+RF-19840,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",6.0,11,945.222,B,Recent Customer
+BH-11710,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",23.0,24,6255.351000000001,A,Others
+KD-16270,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",484.0,16,8282.358,B,Big Amount Sales
+DP-13105,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",6.0,14,2215.002,B,Recent Customer
+BS-11665,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",582.0,11,3288.1100000000006,C,Lost Customer
+DO-13435,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",133.0,13,1300.0315000000003,B,Recent Customer
+EH-13765,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",135.0,32,10310.880000000001,A,Best Customer
+FC-14245,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",70.0,14,3418.742,B,Recent Customer
+RD-19585,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",180.0,19,2912.8940000000002,A,Others
+MY-18295,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",71.0,21,4152.696000000001,A,Others
+MM-18280,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",85.0,12,775.4140000000001,B,Recent Customer
+PM-18940,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",386.0,4,1405.402,C,Almost Lost
+SS-20515,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",491.0,6,613.4000000000001,C,Almost Lost
+CJ-12010,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",189.0,20,11164.974,A,Best Customer
+BO-11350,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",137.0,12,2682.728,B,Recent Customer
+TS-21430,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",172.0,7,2054.14,C,Recent Customer
+TB-21250,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",349.0,19,1602.3760000000002,B,Loyal Customer
+CR-12580,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",57.0,6,2148.852,C,Recent Customer
+GM-14680,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",152.0,11,3163.628,B,Recent Customer
+AH-10030,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",12.0,11,1744.6999999999998,B,Recent Customer
+JR-15670,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",593.0,3,1156.658,C,Lost Cheap Customer
+DB-13615,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",33.0,11,1989.05,B,Recent Customer
+TC-21535,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",4.0,10,742.558,C,Recent Customer
+SC-20050,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",40.0,15,4624.572000000001,B,Recent Customer
+LC-16870,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",27.0,30,2580.7039999999997,B,Others
+AA-10315,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",184.0,11,5563.56,B,Recent Customer
+PJ-19015,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",134.0,10,1824.2340000000002,C,Recent Customer
+PK-19075,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",9.0,25,8646.934,A,Best Customer
+RH-19600,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",534.0,11,2085.7400000000002,C,Almost Lost
+JM-15535,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",102.0,10,1733.4430000000002,C,Recent Customer
+FP-14320,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",23.0,14,4046.7460000000005,B,Recent Customer
+BM-11785,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",218.0,14,1338.8419999999999,C,Almost Lost
+NW-18400,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",172.0,22,7234.013999999999,A,Best Customer
+MZ-17335,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",30.0,6,593.606,C,Recent Customer
+DW-13480,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",217.0,11,5271.628,B,Others
+JE-15715,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",46.0,22,8697.843,A,Best Customer
+MC-17845,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",1.0,14,3805.714000000001,B,Recent Customer
+MG-18145,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",84.0,8,3061.5429999999997,B,Recent Customer
+JC-15775,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",158.0,16,2772.0550000000007,B,Recent Customer
+DL-13330,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,8,585.02,C,Recent Customer
+TM-21490,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",130.0,4,1094.6779999999999,C,Recent Customer
+VW-21775,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",28.0,18,6134.038,B,Recent Customer
+CM-12115,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",8.0,7,1661.6100000000001,C,Recent Customer
+JG-15160,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",1.0,18,6366.392,B,Recent Customer
+PS-18760,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",107.0,21,2181.479,B,Others
+NP-18700,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",138.0,13,7903.182500000001,A,Others
+JE-15475,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",193.0,13,1388.682,B,Recent Customer
+CA-11965,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",96.0,10,3789.7228,B,Recent Customer
+KH-16330,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",40.0,18,3312.863999999999,B,Recent Customer
+AB-10600,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",50.0,8,1515.862,C,Recent Customer
+ND-18460,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",183.0,8,2893.455,B,Recent Customer
+JS-15880,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",534.0,9,3868.02,C,Almost Lost
+AG-10270,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",278.0,14,2582.8979999999997,C,Almost Lost
+BF-10975,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",91.0,13,599.798,B,Recent Customer
+JC-15340,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",114.0,4,71.26299999999999,C,Recent Customer
+AS-10045,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",88.0,10,3050.6920000000005,B,Recent Customer
+MC-17275,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",76.0,13,2725.982,B,Recent Customer
+RR-19525,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",170.0,10,3302.262,B,Recent Customer
+SO-20335,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",29.0,15,2602.575500000001,B,Recent Customer
+SF-20065,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",59.0,9,763.5459999999998,C,Recent Customer
+SP-20920,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",70.0,14,3990.6890000000003,B,Recent Customer
+AG-10390,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",114.0,8,200.94500000000002,C,Recent Customer
+CA-12265,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",56.0,17,2648.2871999999998,B,Recent Customer
+CP-12085,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",82.0,14,5402.253999999998,B,Recent Customer
+SC-20230,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",149.0,11,4371.958000000001,B,Recent Customer
+DB-13270,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",53.0,13,4655.896999999999,B,Recent Customer
+PS-19045,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",236.0,13,6843.633999999999,B,Others
+SM-20005,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",421.0,6,244.49400000000003,C,Almost Lost
+JB-15925,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",737.0,8,900.5520000000001,C,Lost Cheap Customer
+AR-10570,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",534.0,2,88.15,C,Almost Lost
+GK-14620,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",112.0,14,6497.27,B,Recent Customer
+DB-13120,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",48.0,14,2973.094,B,Recent Customer
+RO-19780,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",35.0,12,3815.4780000000005,B,Recent Customer
+SC-20725,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",187.0,26,5226.209999999999,A,Others
+NM-18520,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",244.0,15,2161.9790000000003,C,Almost Lost
+RB-19570,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",25.0,9,528.546,C,Recent Customer
+SG-20605,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",108.0,13,3124.832000000001,B,Recent Customer
+DL-12925,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,14,3272.2000000000003,B,Recent Customer
+CY-12745,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",60.0,11,2900.0260000000003,B,Recent Customer
+SM-20320,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",79.0,15,25043.05,A,Others
+CS-12505,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",58.0,9,5690.055,B,Recent Customer
+GD-14590,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",5.0,6,1888.0700000000002,C,Recent Customer
+SC-20845,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",131.0,4,280.63200000000006,C,Recent Customer
+BM-11650,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",33.0,29,7294.185,A,Best Customer
+EH-14125,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",152.0,18,3082.6530000000002,B,Recent Customer
+RW-19630,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",89.0,16,3279.7459999999996,B,Recent Customer
+BF-11170,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",16.0,27,5907.972,A,Others
+KL-16555,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",16.0,22,5016.488000000001,A,Others
+SC-20440,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",36.0,10,1874.9979999999998,C,Recent Customer
+FH-14350,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",212.0,14,2271.2839999999997,B,Recent Customer
+LW-16990,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",33.0,11,3230.308,B,Recent Customer
+FM-14380,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",145.0,14,2523.2659999999996,B,Recent Customer
+AH-10465,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",230.0,8,2495.3916,C,Almost Lost
+GM-14695,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",117.0,11,6049.966,B,Recent Customer
+PV-18985,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",89.0,13,2876.0460000000003,B,Recent Customer
+GH-14410,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",75.0,17,2819.4670000000006,B,Recent Customer
+KC-16255,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",407.0,10,2120.954,C,Almost Lost
+JF-15490,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",121.0,15,1082.9180000000001,B,Recent Customer
+VS-21820,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",221.0,8,1055.9809999999998,C,Almost Lost
+MC-17635,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",189.0,8,795.1540000000001,C,Recent Customer
+AP-10720,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",41.0,19,1638.554,B,Others
+GT-14710,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",36.0,29,11820.119999999999,A,Best Customer
+PG-18895,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,17,1987.1640000000002,B,Recent Customer
+DM-13525,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",481.0,10,1376.792,C,Almost Lost
+MS-17530,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",434.0,7,475.65599999999995,C,Almost Lost
+MS-17365,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",273.0,24,7443.6900000000005,A,Others
+JA-15970,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",92.0,24,6491.026000000002,A,Others
+LT-17110,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",34.0,14,2936.2519999999995,B,Recent Customer
+TS-21655,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",238.0,14,3368.094,B,Others
+CM-12655,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",27.0,10,6339.557599999999,B,Recent Customer
+JL-15835,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",21.0,34,9799.923,A,Best Customer
+JL-15175,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",6.0,7,1571.523,C,Recent Customer
+DN-13690,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",217.0,11,2139.79,C,Almost Lost
+SW-20755,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",534.0,8,758.696,C,Almost Lost
+BD-11620,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",69.0,8,1538.1100000000001,C,Recent Customer
+DH-13075,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",277.0,23,4932.871999999999,B,Loyal Customer
+BF-11275,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,4,791.9899999999999,C,Recent Customer
+CC-12145,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",106.0,11,2471.6500000000005,B,Recent Customer
+Dl-13600,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",119.0,6,755.602,C,Recent Customer
+MH-17440,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",376.0,9,400.016,C,Almost Lost
+SS-20410,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",110.0,12,3056.8069999999993,B,Recent Customer
+CM-12235,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",385.0,8,2305.7120000000004,C,Almost Lost
+ES-14080,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",28.0,20,4657.924,A,Others
+TB-21280,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",583.0,11,2198.45,C,Lost Cheap Customer
+MV-17485,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",27.0,15,1560.05,B,Recent Customer
+SC-20695,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",89.0,14,2576.4080000000004,B,Recent Customer
+CJ-11875,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",365.0,1,16.520000000000003,C,Almost Lost
+SS-20140,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",15.0,21,1324.0280000000002,B,Others
+EM-14200,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",158.0,4,366.822,C,Recent Customer
+FM-14215,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",7.0,15,2456.6380000000004,B,Recent Customer
+RS-19765,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",36.0,14,4159.769999999999,B,Recent Customer
+KT-16480,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",100.0,13,4642.088400000001,B,Recent Customer
+RB-19645,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",648.0,7,221.084,C,Lost Cheap Customer
+RA-19915,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",12.0,22,4793.543000000001,A,Others
+RE-19405,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",1097.0,1,48.36,C,Lost Cheap Customer
+BF-11215,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",65.0,8,1585.1619999999998,C,Recent Customer
+ZC-21910,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",54.0,31,8025.707,A,Best Customer
+TB-21595,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",285.0,7,1387.559,C,Almost Lost
+MF-17665,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",421.0,8,937.039,C,Almost Lost
+NM-18445,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",160.0,14,6459.343999999999,B,Recent Customer
+FW-14395,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",362.0,3,79.75,C,Almost Lost
+CC-12430,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",0.0,19,2870.05,A,Others
+AW-10840,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",20.0,8,649.376,C,Recent Customer
+MO-17800,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",104.0,11,1687.027,B,Recent Customer
+RA-19945,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",61.0,9,1686.9225000000006,C,Recent Customer
+JD-15790,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",117.0,7,2152.3520000000003,C,Recent Customer
+LF-17185,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",22.0,16,3930.5089999999996,B,Recent Customer
+KH-16690,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",2.0,15,5990.799000000001,B,Recent Customer
+JD-16015,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",112.0,11,385.43000000000006,B,Recent Customer
+MN-17935,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",34.0,10,2477.946,C,Recent Customer
+JR-15700,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",68.0,1,863.8799999999999,C,Recent Customer
+BG-11035,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",28.0,12,2798.948,B,Recent Customer
+ME-17320,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",42.0,22,10663.727999999997,A,Best Customer
+RC-19825,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",369.0,10,966.4089999999999,C,Almost Lost
+CC-12610,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",34.0,12,2540.631,B,Recent Customer
+SD-20485,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",200.0,21,6121.114,A,Others
+GA-14515,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",149.0,14,3919.7760000000003,B,Recent Customer
+CG-12040,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",49.0,9,904.468,C,Recent Customer
+CM-12160,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",26.0,7,2533.314,C,Recent Customer
+VB-21745,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",54.0,10,2005.596,C,Recent Customer
+NK-18490,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",70.0,11,572.048,B,Recent Customer
+DC-13285,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",23.0,7,1174.618,C,Recent Customer
+MB-17305,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",48.0,19,1548.7019999999998,B,Others
+ML-17395,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",69.0,20,2722.843,B,Others
+CK-12595,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",43.0,25,2372.75,B,Others
+PS-18970,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",69.0,13,1278.6390000000001,B,Recent Customer
+CM-12190,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",8.0,7,1475.144,C,Recent Customer
+EB-13975,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",0.0,6,1643.255,C,Recent Customer
+CC-12475,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",39.0,13,1659.438,B,Recent Customer
+EH-13945,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",217.0,17,684.171,C,Almost Lost
+TW-21025,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",64.0,12,5278.826,B,Recent Customer
+DE-13255,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",719.0,9,2550.874,C,Lost Cheap Customer
+ML-17410,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",54.0,15,2921.499999999999,B,Recent Customer
+RH-19510,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",467.0,12,6979.180000000001,B,Others
+HD-14785,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",769.0,7,251.35999999999999,C,Lost Cheap Customer
+BP-11095,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",17.0,20,2442.044,B,Others
+DW-13195,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",69.0,9,1080.751,C,Recent Customer
+SP-20545,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",327.0,10,1306.086,C,Almost Lost
+JJ-15445,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",483.0,6,709.1780000000001,C,Almost Lost
+PC-19000,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",882.0,3,1061.488,C,Lost Cheap Customer
+RP-19270,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",496.0,12,954.6451999999999,C,Almost Lost
+SM-20950,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",25.0,22,5563.392,A,Others
+SP-20860,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",79.0,24,4282.94,A,Others
+DB-12970,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",241.0,14,2839.2272000000003,B,Others
+CG-12520,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",338.0,5,1148.78,C,Almost Lost
+MG-17695,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",555.0,7,1342.282,C,Almost Lost
+FO-14305,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",38.0,15,2678.438,B,Recent Customer
+JH-15985,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",29.0,14,7954.998,A,Others
+AJ-10795,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",166.0,21,4501.391,A,Others
+BB-10990,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",105.0,8,744.34,C,Recent Customer
+GT-14755,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",34.0,7,226.436,C,Recent Customer
+CA-12055,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",401.0,10,1679.724,C,Almost Lost
+GM-14455,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",16.0,12,3078.6240000000003,B,Recent Customer
+BP-11290,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",12.0,16,2475.1570000000006,B,Recent Customer
+RB-19795,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",32.0,18,5633.315999999999,B,Recent Customer
+LP-17080,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",40.0,9,756.606,C,Recent Customer
+LL-16840,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",249.0,12,2741.204,C,Almost Lost
+DF-13135,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",700.0,6,2390.534,C,Lost Cheap Customer
+DK-12895,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",45.0,15,4282.175999999999,B,Recent Customer
+AW-10930,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",46.0,16,2852.9680000000008,B,Recent Customer
+JD-16060,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",300.0,6,695.4420000000001,C,Almost Lost
+KD-16495,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",112.0,28,8181.256,A,Best Customer
+GW-14605,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",28.0,9,2189.0190000000002,C,Recent Customer
+TB-21520,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",107.0,20,4737.486,A,Others
+SS-20590,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",432.0,9,418.49,C,Almost Lost
+CS-12250,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",26.0,28,2754.216,B,Others
+JW-16075,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",461.0,7,1428.731,C,Almost Lost
+AR-10345,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",111.0,5,1055.694,C,Recent Customer
+CL-12700,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",105.0,8,2353.586,C,Recent Customer
+HR-14830,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",159.0,14,5248.787,B,Recent Customer
+BT-11440,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",560.0,7,603.876,C,Almost Lost
+KN-16390,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",19.0,17,2617.2720000000004,B,Recent Customer
+GZ-14470,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",7.0,14,4355.15,B,Recent Customer
+TB-21625,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",30.0,15,2797.668,B,Recent Customer
+TH-21550,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",72.0,13,4234.0960000000005,B,Recent Customer
+EH-14005,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",2.0,11,1219.5300000000002,B,Recent Customer
+MV-18190,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",19.0,11,1734.5739999999998,B,Recent Customer
+LW-17215,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",21.0,15,5420.514,B,Recent Customer
+MA-17560,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",64.0,34,4299.160999999999,A,Others
+MH-17785,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",98.0,11,2203.7780000000002,B,Recent Customer
+AC-10660,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",282.0,6,657.316,C,Almost Lost
+AB-10015,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",415.0,6,886.156,C,Almost Lost
+MK-18160,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",240.0,11,1031.6019999999999,C,Almost Lost
+BG-11695,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",36.0,8,1874.1719999999998,C,Recent Customer
+BW-11200,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",203.0,10,1738.4060000000002,C,Recent Customer
+SJ-20500,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",253.0,7,1318.7759999999996,C,Almost Lost
+CR-12730,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",78.0,6,1600.55,C,Recent Customer
+BP-11230,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",39.0,6,1181.4900000000002,C,Recent Customer
+HZ-14950,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",35.0,6,886.5199999999999,C,Recent Customer
+AM-10705,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",162.0,22,5664.022,A,Others
+HW-14935,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",117.0,20,9300.253999999997,A,Best Customer
+EM-13825,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",55.0,16,2339.598,B,Recent Customer
+GH-14665,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",2.0,3,146.9408,C,Recent Customer
+CK-12760,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",82.0,14,1582.1090000000004,B,Recent Customer
+AG-10525,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",845.0,9,1455.038,C,Lost Cheap Customer
+ER-13855,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",421.0,5,1245.788,C,Almost Lost
+JH-15910,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",41.0,9,959.477,C,Recent Customer
+KD-16345,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",41.0,10,1888.964,C,Recent Customer
+CR-12820,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",85.0,7,1397.8724,C,Recent Customer
+CT-11995,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",96.0,18,3241.898000000001,B,Recent Customer
+FH-14275,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",37.0,21,4256.272000000001,A,Others
+JM-15250,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",37.0,19,3159.1220000000003,A,Others
+AA-10480,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",259.0,12,1790.512,C,Almost Lost
+JB-15400,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",7.0,16,1791.605,B,Recent Customer
+DL-13315,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",22.0,17,1458.2580000000003,B,Recent Customer
+MD-17350,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",117.0,17,3766.382,B,Recent Customer
+CL-11890,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",106.0,7,1262.014,C,Recent Customer
+SW-20455,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",162.0,9,2921.5440000000003,B,Recent Customer
+BW-11065,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",212.0,3,385.516,C,Recent Customer
+BS-11365,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",558.0,9,10501.652999999998,B,Big Amount Sales
+TB-21190,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",49.0,4,816.174,C,Recent Customer
+NF-18475,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",525.0,4,377.16200000000003,C,Almost Lost
+CD-11920,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",40.0,9,2033.968,C,Recent Customer
+DJ-13630,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",12.0,8,3356.3979999999992,B,Recent Customer
+SW-20245,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",81.0,10,1085.078,C,Recent Customer
+TP-21130,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",8.0,16,4454.056,B,Recent Customer
+LH-16750,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",151.0,3,287.426,C,Recent Customer
+GH-14485,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",387.0,3,1361.2440000000004,C,Almost Lost
+JC-15385,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",175.0,4,1058.1080000000002,C,Recent Customer
+AS-10630,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",92.0,12,833.3979999999999,B,Recent Customer
+AH-10690,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",410.0,23,7888.294000000001,A,Others
+KB-16600,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",1.0,9,983.9219999999999,C,Recent Customer
+SJ-20215,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",29.0,10,1341.036,C,Recent Customer
+NC-18415,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",41.0,14,2218.99,B,Recent Customer
+NR-18550,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",210.0,13,2367.277,B,Recent Customer
+MP-18175,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",16.0,19,5087.92,A,Others
+EB-13870,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",100.0,11,2767.219,B,Recent Customer
+NP-18670,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",58.0,10,3908.402,B,Recent Customer
+NB-18580,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",1165.0,2,273.87199999999996,C,Lost Cheap Customer
+KB-16405,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",117.0,9,908.8209999999999,C,Recent Customer
+BP-11185,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",1.0,18,3675.8610000000003,B,Recent Customer
+AR-10405,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",125.0,7,2236.1279999999997,C,Recent Customer
+BS-11755,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",1.0,14,2562.3820000000005,B,Recent Customer
+AJ-10945,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",85.0,10,1839.2400000000002,C,Recent Customer
+MR-17545,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",125.0,6,639.178,C,Recent Customer
+VG-21805,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",286.0,6,427.372,C,Almost Lost
+AS-10285,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",19.0,8,3214.236,B,Recent Customer
+XP-21865,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",43.0,28,2374.6580000000004,B,Others
+CC-12100,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",457.0,13,1770.945,C,Almost Lost
+JK-15730,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",84.0,20,4867.200000000001,A,Others
+MH-18025,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",49.0,10,2984.9480000000003,B,Recent Customer
+AJ-10960,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",74.0,5,629.2479999999999,C,Recent Customer
+SB-20170,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",201.0,7,1348.02,C,Recent Customer
+CM-11935,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",708.0,4,565.3919999999999,C,Lost Cheap Customer
+BO-11425,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",75.0,2,130.83,C,Recent Customer
+MG-17680,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",92.0,10,2350.188,C,Recent Customer
+MT-18070,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",203.0,11,1319.4497999999996,B,Recent Customer
+EB-14170,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",82.0,7,1186.326,C,Recent Customer
+TH-21235,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",117.0,13,1022.2010000000001,B,Recent Customer
+AG-10300,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",118.0,5,367.54800000000006,C,Recent Customer
+DS-13180,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",23.0,20,2881.8128,A,Others
+MC-18130,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",369.0,11,1581.9979999999998,C,Almost Lost
+LM-17065,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",391.0,7,1346.7740000000001,C,Almost Lost
+BT-11485,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",659.0,3,415.19599999999997,C,Lost Cheap Customer
+BB-11545,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",28.0,20,6765.727999999999,A,Others
+SH-20395,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",23.0,15,2180.718,B,Recent Customer
+EM-13810,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",132.0,7,2567.01,C,Recent Customer
+DK-13150,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",10.0,5,797.8319999999999,C,Recent Customer
+BE-11455,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",254.0,13,1727.6520000000003,C,Almost Lost
+PB-18805,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",25.0,10,740.356,C,Recent Customer
+TS-21085,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",357.0,2,4.833000000000001,C,Almost Lost
+LR-17035,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",132.0,12,1879.3059999999998,B,Recent Customer
+RM-19375,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",345.0,9,1453.474,C,Almost Lost
+NC-18625,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",204.0,9,1821.7420000000002,C,Recent Customer
+TS-21160,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",504.0,17,2163.6240000000003,C,Almost Lost
+BD-11320,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",33.0,19,5718.521000000001,A,Others
+MO-17950,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",180.0,4,154.288,C,Recent Customer
+AB-10150,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",41.0,12,966.7099999999998,B,Recent Customer
+CL-12565,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",284.0,28,10880.545999999998,A,Others
+NS-18505,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",6.0,15,2575.863,B,Recent Customer
+JE-15745,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",51.0,23,6760.814999999999,A,Others
+TH-21100,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",344.0,7,2422.824,C,Almost Lost
+MH-17455,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",85.0,11,2456.182,B,Recent Customer
+SW-20275,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",30.0,7,1966.65,C,Recent Customer
+LH-17155,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",385.0,19,1739.6889999999999,B,Loyal Customer
+MP-17965,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",72.0,20,3983.6420000000003,A,Others
+BV-11245,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",334.0,14,1523.2730000000001,C,Almost Lost
+RD-19930,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",42.0,10,970.9420000000001,C,Recent Customer
+EB-13840,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",90.0,8,4358.128,B,Recent Customer
+SC-20800,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",30.0,5,279.25600000000003,C,Recent Customer
+NF-18385,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",79.0,14,8322.826000000001,A,Others
+DC-12850,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",37.0,18,3336.1680000000006,B,Recent Customer
+RS-19420,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",76.0,9,3221.29,B,Recent Customer
+PF-19165,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",196.0,10,2770.0,C,Recent Customer
+DB-12910,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",21.0,12,2171.599,B,Recent Customer
+EB-13705,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",48.0,12,3644.9780000000005,B,Recent Customer
+DH-13675,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",776.0,11,1043.096,C,Lost Cheap Customer
+RM-19750,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",299.0,2,98.35,C,Almost Lost
+AA-10645,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",55.0,18,5086.935000000001,B,Recent Customer
+MK-17905,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",28.0,17,2302.368,B,Recent Customer
+TG-21640,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",114.0,10,2074.6609999999996,C,Recent Customer
+RF-19735,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",89.0,14,2341.2960000000003,B,Recent Customer
+SN-20560,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",111.0,15,1860.4179999999997,B,Recent Customer
+JB-16045,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",7.0,9,2518.115,C,Recent Customer
+DB-13555,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",107.0,14,3908.8028000000004,B,Recent Customer
+KM-16720,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",28.0,28,4909.472000000001,A,Others
+JK-15640,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",180.0,12,4760.434000000001,B,Recent Customer
+SJ-20125,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",95.0,24,3949.6560000000004,A,Others
+CC-12685,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",799.0,12,2854.1150000000007,C,Lost Customer
+AR-10540,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",6.0,9,6608.448,B,Recent Customer
+JK-15370,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",44.0,17,2709.6320000000005,B,Recent Customer
+CS-12355,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",6.0,22,3202.1620000000003,A,Others
+JE-15610,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",48.0,20,7754.976,A,Best Customer
+TP-21415,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",104.0,10,5329.0048,B,Recent Customer
+AR-10825,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",58.0,13,4523.336,B,Recent Customer
+BC-11125,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",202.0,18,2933.6759999999995,B,Recent Customer
+JK-15325,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",287.0,4,383.812,C,Almost Lost
+JK-16090,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",28.0,9,3747.668,B,Recent Customer
+CM-11815,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",131.0,10,1673.8880000000001,C,Recent Customer
+EH-13990,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",405.0,8,825.95,C,Almost Lost
+EM-14095,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",113.0,10,1041.0420000000001,C,Recent Customer
+AH-10585,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",21.0,5,738.504,C,Recent Customer
+AG-10495,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",78.0,21,2356.855,B,Others
+MA-17995,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",186.0,12,2453.284,B,Recent Customer
+VF-21715,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",13.0,11,847.944,B,Recent Customer
+EP-13915,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",12.0,31,5478.060799999999,A,Others
+RS-19870,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",19.0,3,22.328,C,Recent Customer
+KW-16570,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",771.0,5,449.09600000000006,C,Lost Cheap Customer
+PK-18910,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",483.0,3,1441.1520000000005,C,Almost Lost
+JJ-15760,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",753.0,3,195.0,C,Lost Cheap Customer
+GT-14635,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",56.0,6,9351.211999999998,B,Others
+DJ-13510,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",48.0,13,2501.688,B,Recent Customer
+AG-10330,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",8.0,9,660.972,C,Recent Customer
+MC-17590,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",51.0,17,2426.0669999999996,B,Recent Customer
+PG-18820,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",36.0,26,3086.907,A,Others
+JP-16135,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",102.0,13,1707.7099999999998,B,Recent Customer
+DM-13015,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,20,6345.103,A,Others
+AY-10555,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",14.0,10,497.01400000000007,C,Recent Customer
+CS-11950,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",25.0,22,3036.5469999999996,A,Others
+MS-17980,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",26.0,11,855.116,B,Recent Customer
+JH-15430,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",5.0,7,309.28100000000006,C,Recent Customer
+MG-17875,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",116.0,7,1242.833,C,Recent Customer
+CS-12460,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",27.0,6,550.644,C,Recent Customer
+KN-16705,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",98.0,15,2280.5800000000004,B,Recent Customer
+WB-21850,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",20.0,37,6160.102000000001,A,Others
+AF-10870,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",41.0,16,2052.908,B,Recent Customer
+TS-21505,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",11.0,14,2243.274,B,Recent Customer
+EB-14110,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",113.0,11,3071.1259999999997,B,Recent Customer
+EG-13900,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",22.0,9,1832.02,C,Recent Customer
+NB-18655,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",19.0,17,1972.599,B,Recent Customer
+MZ-17515,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",282.0,10,2564.906,C,Almost Lost
+QJ-19255,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",25.0,13,6108.338,B,Recent Customer
+GA-14725,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",5.0,22,1398.3820000000003,B,Others
+PW-19030,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",46.0,13,3454.916000000001,B,Recent Customer
+PO-19195,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",86.0,10,1056.8580000000002,C,Recent Customer
+LO-17170,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",2.0,9,644.35,C,Recent Customer
+EM-13960,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",151.0,6,933.7040000000001,C,Recent Customer
+DB-13210,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",9.0,21,2332.577,B,Others
+MC-17575,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",27.0,11,1303.893,B,Recent Customer
+NF-18595,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",114.0,12,2031.4720000000002,B,Recent Customer
+ES-14020,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",40.0,8,3510.458,B,Recent Customer
+BW-11110,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",121.0,17,4750.358,B,Recent Customer
+TS-21370,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",36.0,15,11891.751,A,Others
+RD-19900,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",114.0,21,3133.923999999999,A,Others
+PH-18790,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",70.0,2,729.6480000000001,C,Recent Customer
+MM-18055,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",61.0,19,2749.881,B,Others
+ML-17755,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",29.0,13,2071.914,B,Recent Customer
+VP-21730,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",30.0,5,993.902,C,Recent Customer
+AM-10360,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",28.0,12,814.0120000000001,B,Recent Customer
+ME-17725,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",28.0,13,1908.4532,B,Recent Customer
+JS-15595,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",119.0,8,1417.654,C,Recent Customer
+ZD-21925,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",202.0,9,1493.944,C,Recent Customer
+CC-12370,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",43.0,11,12129.071999999998,A,Others
+LC-16885,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",16.0,23,7663.125999999999,A,Best Customer
+EC-14050,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",53.0,7,461.91400000000004,C,Recent Customer
+PM-19135,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",51.0,7,4115.662,B,Recent Customer
+HM-14980,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",247.0,7,736.276,C,Almost Lost
+SE-20110,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",9.0,19,12209.438000000002,A,Best Customer
+TN-21040,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",90.0,12,3130.221,B,Recent Customer
+GG-14650,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",43.0,24,2224.000000000001,B,Others
+TM-21010,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",103.0,19,2955.2259999999997,A,Others
+MS-17710,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",413.0,15,1613.402,C,Almost Lost
+LT-16765,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",26.0,3,329.876,C,Recent Customer
+JG-15805,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",223.0,9,1507.0180000000003,C,Almost Lost
+RK-19300,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",119.0,8,1460.1920000000002,C,Recent Customer
+CW-11905,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",22.0,11,1136.592,B,Recent Customer
+RP-19855,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",28.0,15,2170.716000000001,B,Recent Customer
+TS-21340,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",226.0,12,974.7819999999999,C,Almost Lost
+JH-16180,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",404.0,5,2256.394,C,Almost Lost
+MM-17920,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",7.0,16,3794.08,B,Recent Customer
+JH-15820,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",174.0,8,528.9100000000001,C,Recent Customer
+MO-17500,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",72.0,5,922.4870000000001,C,Recent Customer
+KC-16540,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",97.0,5,3908.2619999999997,B,Recent Customer
+CH-12070,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",691.0,4,1537.2360000000003,C,Lost Cheap Customer
+EA-14035,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",152.0,25,2846.7050000000004,A,Others
+DB-13060,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",16.0,13,4531.646000000002,B,Recent Customer
+DR-12940,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",50.0,13,8350.868,A,Others
+SV-20365,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",101.0,32,11470.949999999999,A,Best Customer
+LS-17230,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",777.0,6,368.88,C,Lost Cheap Customer
+MG-18205,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",264.0,2,16.739000000000004,C,Almost Lost
+JF-15190,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",65.0,19,2279.5860000000002,B,Others
+JL-15505,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",49.0,17,3173.874,B,Recent Customer
+VD-21670,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",581.0,16,6442.254000000001,C,Lost Customer
+SV-20935,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,13,1903.491,B,Recent Customer
+RA-19885,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",43.0,15,3832.314,B,Recent Customer
+LS-17200,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",96.0,14,1010.2560000000001,B,Recent Customer
+DL-12865,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",100.0,14,1503.112,B,Recent Customer
+DB-13660,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",12.0,10,1155.2019999999998,C,Recent Customer
+AH-10075,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",34.0,20,3250.337,A,Others
+BD-11725,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",93.0,10,1526.5,C,Recent Customer
+DB-13360,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",264.0,6,1081.466,C,Almost Lost
+KB-16315,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",296.0,22,1569.464,B,Loyal Customer
+GM-14440,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",83.0,11,3582.82,B,Recent Customer
+BT-11680,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",20.0,20,3196.7520000000004,A,Others
+CS-12490,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",424.0,9,1077.2285000000002,C,Almost Lost
+MM-17260,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",168.0,6,1314.0230000000001,C,Recent Customer
+JD-16150,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",41.0,17,8828.030499999999,A,Others
+TZ-21580,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",35.0,9,1707.2860000000003,C,Recent Customer
+AS-10225,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",22.0,13,4260.784000000001,B,Recent Customer
+MD-17860,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",36.0,8,1204.9099999999999,C,Recent Customer
+BD-11635,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",9.0,5,582.646,C,Recent Customer
+IG-15085,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",71.0,7,744.574,C,Recent Customer
+CB-12535,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",197.0,19,4246.4555,A,Others
+LC-16930,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",41.0,14,4492.946,B,Recent Customer
+MB-18085,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",44.0,10,1428.231,C,Recent Customer
+LB-16795,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",152.0,24,4985.676,A,Others
+NZ-18565,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",85.0,20,2488.31,B,Others
+DS-13030,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",93.0,19,1762.2130000000002,B,Others
+FH-14365,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",5.0,13,6987.195999999999,B,Recent Customer
+LE-16810,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",21.0,9,1469.4500000000003,C,Recent Customer
+SM-20905,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",606.0,6,1043.0410000000002,C,Lost Cheap Customer
+LS-16945,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",178.0,14,2845.27,B,Recent Customer
+BG-11740,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",57.0,7,1006.3560000000001,C,Recent Customer
+CM-12715,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",1035.0,13,3984.4524000000006,C,Lost Customer
+RW-19690,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",79.0,15,3495.6459999999997,B,Recent Customer
+RC-19960,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",110.0,11,885.752,B,Recent Customer
+ML-18040,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",79.0,4,742.0820000000001,C,Recent Customer
+IL-15100,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",142.0,14,5040.736000000001,B,Recent Customer
+HL-15040,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",43.0,11,12873.297999999999,A,Others
+JE-16165,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",20.0,7,2697.2480000000005,C,Recent Customer
+JM-15580,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",0.0,7,303.948,C,Recent Customer
+MC-17425,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",399.0,10,4432.138,C,Almost Lost
+PW-19240,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",464.0,12,3922.4149999999995,B,Others
+VM-21835,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",117.0,8,380.69,C,Recent Customer
+EK-13795,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",44.0,4,1303.478,C,Recent Customer
+CD-12790,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",399.0,15,1860.732,C,Almost Lost
+PO-18865,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",0.0,13,2493.2140000000004,B,Recent Customer
+TC-21475,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",153.0,11,1244.976,B,Recent Customer
+NC-18535,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",6.0,15,8241.738999999998,A,Others
+PB-19150,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",97.0,11,1456.9499999999998,B,Recent Customer
+MJ-17740,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",22.0,15,6320.746,B,Recent Customer
+SB-20185,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",188.0,12,6410.995999999999,B,Recent Customer
+CD-11980,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",54.0,6,639.766,C,Recent Customer
+HA-14905,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",69.0,10,2163.3,C,Recent Customer
+GZ-14545,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",157.0,5,2454.6220000000003,C,Recent Customer
+AO-10810,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",501.0,1,161.28,C,Almost Lost
+SC-20680,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",126.0,8,1254.64,C,Recent Customer
+RB-19360,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",96.0,18,15117.339,A,Others
+HM-14860,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,20,8236.7648,A,Best Customer
+TT-21460,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",12.0,14,5364.808,B,Recent Customer
+GM-14500,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",106.0,13,1255.6819999999998,B,Recent Customer
+DG-13300,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",32.0,8,3195.818,B,Recent Customer
+JF-15565,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",54.0,16,4198.332,B,Recent Customer
+KB-16240,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",4.0,10,3152.615,B,Recent Customer
+JO-15280,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",92.0,11,1934.2720000000004,B,Recent Customer
+TT-21265,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",406.0,3,439.5,C,Almost Lost
+SH-20635,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",765.0,2,2096.3920000000003,C,Lost Cheap Customer
+LW-16825,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",88.0,15,2238.061,B,Recent Customer
+HP-14815,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",30.0,10,1990.314,C,Recent Customer
+KM-16375,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",56.0,20,5620.186000000001,A,Others
+BT-11395,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",302.0,10,2186.6130000000003,C,Almost Lost
+BS-11380,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",28.0,13,3887.834,B,Recent Customer
+CK-12325,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",120.0,12,2945.321,B,Recent Customer
+AS-10240,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",192.0,13,584.6080000000002,B,Recent Customer
+BE-11335,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",119.0,9,4204.6759999999995,B,Recent Customer
+DK-12835,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",21.0,27,3256.4800000000005,A,Others
+AH-10195,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",55.0,8,1587.4520000000002,C,Recent Customer
+MW-18235,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",44.0,3,5253.876,B,Recent Customer
+LP-17095,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",9.0,15,3653.3990000000003,B,Recent Customer
+SL-20155,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",70.0,9,3053.012000000001,B,Recent Customer
+JL-15235,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",119.0,10,2203.7000000000003,C,Recent Customer
+RD-19660,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",114.0,5,2786.6319999999996,C,Recent Customer
+LS-17245,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",34.0,12,1008.136,B,Recent Customer
+JM-16195,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",57.0,19,2833.926,A,Others
+EJ-13720,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",302.0,8,2162.174,C,Almost Lost
+GB-14530,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",62.0,20,1568.44,B,Others
+JG-15310,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,11,2240.5800000000004,B,Recent Customer
+MY-17380,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",29.0,13,2254.285,B,Recent Customer
+PP-18955,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",97.0,34,7252.608000000002,A,Best Customer
+KH-16360,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",1.0,14,3100.6119999999996,B,Recent Customer
+AI-10855,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",13.0,18,4375.785999999999,B,Recent Customer
+EH-14185,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",105.0,8,923.884,C,Recent Customer
+CA-12310,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",13.0,11,1421.9539999999997,B,Recent Customer
+LD-16855,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",552.0,1,5.304,C,Almost Lost
+PB-19210,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",688.0,2,132.738,C,Lost Cheap Customer
+LB-16735,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",48.0,3,50.188,C,Recent Customer
+CV-12805,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",5.0,19,2370.3136,B,Others
+TB-21055,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",119.0,18,1467.881,B,Recent Customer
+DL-13495,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",76.0,12,3539.322,B,Recent Customer
+KC-16675,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",57.0,7,1146.0500000000002,C,Recent Customer
+MG-17650,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",29.0,14,3785.276,B,Recent Customer
+CC-12670,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",29.0,14,2269.7015000000006,B,Recent Customer
+CB-12415,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",26.0,12,1949.1999999999998,B,Recent Customer
+JO-15145,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",57.0,13,3254.9490000000005,B,Recent Customer
+TH-21115,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",58.0,9,2942.772,B,Recent Customer
+HA-14920,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",20.0,18,2584.1580000000004,B,Recent Customer
+BT-11305,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",336.0,9,2567.656,C,Almost Lost
+CC-12220,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",20.0,22,3913.4179999999997,A,Others
+CB-12025,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",47.0,26,6076.138999999999,A,Others
+KE-16420,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",26.0,15,1686.7312000000002,B,Recent Customer
+BF-11080,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",25.0,6,272.95,C,Recent Customer
+BF-11020,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",74.0,21,2888.506,A,Others
+AT-10435,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",21.0,9,1171.8139999999999,C,Recent Customer
+LD-17005,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",414.0,7,1961.934,C,Almost Lost
+TC-21295,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",27.0,16,4266.812,B,Recent Customer
+MH-18115,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",5.0,22,5503.092999999999,A,Others
+AJ-10780,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",75.0,15,4867.343999999999,B,Recent Customer
+DW-13540,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",98.0,9,344.08000000000004,C,Recent Customer
+DV-13465,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",29.0,15,3341.5870000000004,B,Recent Customer
+JS-15940,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",463.0,8,469.16900000000004,C,Almost Lost
+NP-18325,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",25.0,21,5529.62,A,Others
+ME-18010,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",92.0,6,1256.9440000000002,C,Recent Customer
+CS-12400,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",2.0,14,3651.8585000000003,B,Recent Customer
+HG-14965,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",23.0,17,3247.6419999999994,B,Recent Customer
+TT-21220,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",183.0,15,1427.044,B,Recent Customer
+CS-11860,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",162.0,7,537.6320000000001,C,Recent Customer
+TS-21205,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",198.0,19,5371.09,A,Others
+GR-14560,"Perempuan berusia 25-39 dan Belum/Tidak menikah, pekerjaan Officer dengan range salary 1000-1999 di region west",1135.0,5,1284.3799999999999,C,Lost Cheap Customer
+RW-19540,"laki-laki berusia 40-59 dan sudah menikah, pekerjaan Officer dengan range salary 1000-1999 di region East",120.0,23,7397.401000000002,A,Best Customer
+Co-12640,"Perempuan berusia 10-24 dan sudah menikah, pekerjaan customer service dengan range salary 0-999 di region west",549.0,8,1300.076,C,Almost Lost
+KA-16525,"Laki-laki berusia 25-39 dan Belum/Tidak menikah, pekerjaan staff dengan range salary 0-999 di region East",36.0,11,1519.506,B,Recent Customer
